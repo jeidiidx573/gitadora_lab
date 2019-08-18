@@ -29,7 +29,7 @@
       fixed
       app
     >
-      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
+      <v-app-bar-nav-icon/>
       <v-toolbar-title v-text="title" />
     </v-app-bar>
     <v-content>

@@ -12,8 +12,8 @@
       <div class="text-center">
         <logo />
       </div>
-      <Musiclist />
     </v-flex>
+  <Musiclist />
   </v-layout>
 </template>
 

@@ -1,41 +1,45 @@
 <template>
   <v-container fluid>
-    <v-row>
-      <v-col cols="12">
-        <v-row
-          justify="center"
+    <v-layout wrap>
+      <v-flex
+        xs12
+        sm6
+        md4
+        v-for="(music, index) in music"
+        :key="index"
+      >
+        <v-card
+          class="ma-3"
+          outlined
         >
-          <v-card
-            v-for="(music, index) in music"
-            :key="index"
-            class="ma-3"
-            max-width="500"
-            outlined
-          >
-            <v-list-item three-line>
-              <v-list-item-content>
-                <div class="overline mb-2">exchain - drum</div>
-                <v-list-item-title class="headline mb-1">{{ music.title }}</v-list-item-title>
-                <v-list-item-subtitle>Artist: {{ music.artist }}</v-list-item-subtitle>
-                <v-list-item-subtitle>BPM: {{ music.bpm }}</v-list-item-subtitle>
-              </v-list-item-content>
-              <v-list-item-avatar
-                tile
-                height="80"
-                width="140"
-                color="grey"
-              ></v-list-item-avatar>
-            </v-list-item>
-            <v-card-actions>
-              <v-btn outlined color="blue lighten-3" @click.stop="open(music.d_bas.videoId);">{{ music.d_bsc.difficult }}</v-btn>
-              <v-btn outlined color="lime lighten-1" @click.stop="open(music.d_adv.videoId);">{{ music.d_adv.difficult }}</v-btn>
-              <v-btn outlined color="red lighten-1" @click.stop="open(music.d_ext.videoId);">{{ music.d_ext.difficult }}</v-btn>
-              <v-btn outlined color="purple lighten-1" @click.stop="open(music.d_mas.videoId);">{{ music.d_mas.difficult }}</v-btn>
-            </v-card-actions>
-          </v-card>
-        </v-row>
-      </v-col>
-    </v-row>
+          <v-list-item three-line>
+            <v-list-item-content>
+              <div class="overline mb-2">exchain - drum</div>
+              <v-list-item-title class="headline mb-1">{{ music.title }}</v-list-item-title>
+              <v-list-item-subtitle>Artist: {{ music.artist }}</v-list-item-subtitle>
+              <v-list-item-subtitle>BPM: {{ music.bpm }}</v-list-item-subtitle>
+            </v-list-item-content>
+            <v-img
+              max-height="90"
+              max-width="160"
+              :src="getThumbnailPath(music.imgId)"
+            ></v-img>
+          </v-list-item>
+          <v-card-actions>
+            <v-btn
+              v-for="(level, name) in music.drum"
+              :key="name"
+              v-show="level.videoId"
+              outlined
+              :color="difficultColor[name]"
+              @click.stop="open(level.videoId);"
+            >
+            {{ level.difficult }}
+            </v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+    </v-layout>
     <v-dialog
       v-model="dialog"
       width="960"
@@ -64,7 +68,8 @@ export default {
     return {
       dialog: false,
       music: Music,
-      videoId: ''
+      videoId: '',
+      difficultColor: { 'bsc': 'blue lighten-3', 'adv': 'lime lighten-1', 'ext': 'red lighten-1', 'mas': 'purple lighten-1' }
     }
   },
   computed: {
@@ -88,6 +93,9 @@ export default {
     },
     stopVideo () {
       this.player.stopVideo()
+    },
+    getThumbnailPath (videoId) {
+      return 'https://img.youtube.com/vi/' + videoId + '/mqdefault.jpg'
     }
   }
 }

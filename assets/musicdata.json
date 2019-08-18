@@ -4,53 +4,60 @@
     "artist": "04 Limited Sazabys",
     "bpm": "217",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.40",
-      "videoId": ""
+    "imgId": "rMnyUrhkOWU",
+    "drum": {
+      "bsc": {
+        "difficult": "1.40",
+        "videoId": "Vs9LPRgrfrw"
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": "jnEnx8UTk2Y"
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "rMnyUrhkOWU"
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": "rMnyUrhkOWU"
+      }
     },
-    "d_adv": {
-      "difficult": "4.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.95",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.00",
-      "videoId": "rMnyUrhkOWU"
-    },
-    "d_mas": {
-      "difficult": "8.75",
-      "videoId": "rMnyUrhkOWU"
-    },
-    "g_bsc": {
-      "difficult": "1.40",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.80",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "6.95",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "1.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.05",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.05",
+        "videoId": ""
+      }
     }
   },
   {
@@ -58,53 +65,60 @@
     "artist": "岸田教団&THE明星ロケッツ",
     "bpm": "210",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
+    "imgId": "m1NrjSEHOxg",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": "mEkhXegrT90"
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": "h6syrN-KESs"
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": "m1NrjSEHOxg"
+      },
+      "mas": {
+        "difficult": "7.40",
+        "videoId": "m1NrjSEHOxg"
+      }
     },
-    "d_adv": {
-      "difficult": "4.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.20",
-      "videoId": "m1NrjSEHOxg"
-    },
-    "d_mas": {
-      "difficult": "7.40",
-      "videoId": "m1NrjSEHOxg"
-    },
-    "g_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.85",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.10",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.20",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": ""
+      }
     }
   },
   {
@@ -112,53 +126,60 @@
     "artist": "ヨルシカ",
     "bpm": "180",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.95",
-      "videoId": ""
+    "imgId": "iRUZ-JI7jlE",
+    "drum": {
+      "bsc": {
+        "difficult": "1.95",
+        "videoId": "PYJc3VRmZkc"
+      },
+      "adv": {
+        "difficult": "3.45",
+        "videoId": "REyPKs_d89E"
+      },
+      "ext": {
+        "difficult": "4.70",
+        "videoId": "iRUZ-JI7jlE"
+      },
+      "mas": {
+        "difficult": "6.20",
+        "videoId": "iRUZ-JI7jlE"
+      }
     },
-    "d_adv": {
-      "difficult": "3.45",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "4.70",
-      "videoId": "iRUZ-JI7jlE"
-    },
-    "d_mas": {
-      "difficult": "6.20",
-      "videoId": "iRUZ-JI7jlE"
-    },
-    "g_bsc": {
-      "difficult": "1.90",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.60",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.70",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "1.60",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "1.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -166,53 +187,60 @@
     "artist": "KANA-BOON",
     "bpm": "183",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.80",
-      "videoId": ""
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.65",
+        "videoId": ""
+      }
     },
-    "d_adv": {
-      "difficult": "3.55",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.15",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.15",
-      "videoId": ""
-    },
-    "d_mas": {
-      "difficult": "6.65",
-      "videoId": ""
-    },
-    "g_bsc": {
-      "difficult": "1.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.15",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "1.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "1.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -220,53 +248,60 @@
     "artist": "(黒うさP)",
     "bpm": "154",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.90",
-      "videoId": ""
+    "imgId": "A956ZYRhEZc",
+    "drum": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": "APu0KSPtU4g"
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": "afbtUOZhPAQ"
+      },
+      "ext": {
+        "difficult": "5.70",
+        "videoId": "A956ZYRhEZc"
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": "A956ZYRhEZc"
+      }
     },
-    "d_adv": {
-      "difficult": "3.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.70",
-      "videoId": "A956ZYRhEZc"
-    },
-    "d_mas": {
-      "difficult": "6.90",
-      "videoId": "A956ZYRhEZc"
-    },
-    "g_bsc": {
-      "difficult": "1.60",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.15",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -274,53 +309,60 @@
     "artist": "Rani",
     "bpm": "188",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
+    "imgId": "OnpXXCMUlnU",
+    "drum": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": "IpVrLrFg3uc"
+      },
+      "adv": {
+        "difficult": "4.55",
+        "videoId": "Ggn7dgGc-UI"
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": "OnpXXCMUlnU"
+      },
+      "mas": {
+        "difficult": "7.40",
+        "videoId": "OnpXXCMUlnU"
+      }
     },
-    "d_adv": {
-      "difficult": "4.55",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.20",
-      "videoId": "OnpXXCMUlnU"
-    },
-    "d_mas": {
-      "difficult": "7.40",
-      "videoId": "OnpXXCMUlnU"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.15",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.60",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.05",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -328,53 +370,60 @@
     "artist": "嘘とカメレオン",
     "bpm": "210",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.60",
-      "videoId": ""
+    "imgId": "VrKg48SQHPY",
+    "drum": {
+      "bsc": {
+        "difficult": "1.60",
+        "videoId": "O-FpZsqbuYo"
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": "UNJhysxMQKw"
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": "VrKg48SQHPY"
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": "VrKg48SQHPY"
+      }
     },
-    "d_adv": {
-      "difficult": "4.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.85",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.80",
-      "videoId": "VrKg48SQHPY"
-    },
-    "d_mas": {
-      "difficult": "7.00",
-      "videoId": "VrKg48SQHPY"
-    },
-    "g_bsc": {
-      "difficult": "1.85",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.40",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.75",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.50",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.80",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.25",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.25",
+        "videoId": ""
+      }
     }
   },
   {
@@ -382,53 +431,60 @@
     "artist": "(BUMP OF CHICKEN)",
     "bpm": "165",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
+    "imgId": "87CbScIj93w",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "87CbScIj93w"
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": "87CbScIj93w"
+      },
+      "mas": {
+        "difficult": "-",
+        "videoId": ""
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": "87CbScIj93w"
+    "guitar": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "-",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.30",
-      "videoId": "87CbScIj93w"
-    },
-    "d_mas": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "g_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "1.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.85",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.85",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "-",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "-",
+        "videoId": ""
+      }
     }
   },
   {
@@ -436,53 +492,60 @@
     "artist": "KanadeYUK",
     "bpm": "190",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
+    "imgId": "N959_S19wJs",
+    "drum": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": "JzRCBTuPYgo"
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": "Lqpxp6jDPsM"
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": "N959_S19wJs"
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": "N959_S19wJs"
+      }
     },
-    "d_adv": {
-      "difficult": "4.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.10",
-      "videoId": "N959_S19wJs"
-    },
-    "d_mas": {
-      "difficult": "7.45",
-      "videoId": "N959_S19wJs"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.90",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.25",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -490,53 +553,60 @@
     "artist": "mitsuhiro",
     "bpm": "220",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
+    "imgId": "b7VCekF4aPg",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": "Xz2Z8o2CdE4"
+      },
+      "adv": {
+        "difficult": "5.60",
+        "videoId": "PFBKIDshO_k"
+      },
+      "ext": {
+        "difficult": "7.80",
+        "videoId": "b7VCekF4aPg"
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": "b7VCekF4aPg"
+      }
     },
-    "d_adv": {
-      "difficult": "5.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.80",
-      "videoId": "b7VCekF4aPg"
-    },
-    "d_mas": {
-      "difficult": "9.10",
-      "videoId": "b7VCekF4aPg"
-    },
-    "g_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.25",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.00",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.05",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.45",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": ""
+      }
     }
   },
   {
@@ -544,53 +614,60 @@
     "artist": "Mutsuhiko Izumi",
     "bpm": "165-172",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.55",
-      "videoId": ""
+    "imgId": "K3iMONjXAEI",
+    "drum": {
+      "bsc": {
+        "difficult": "2.55",
+        "videoId": "RMfiRJddOYk"
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": "ih_GJRHiH9k"
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": "K3iMONjXAEI"
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": "K3iMONjXAEI"
+      }
     },
-    "d_adv": {
-      "difficult": "4.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.40",
-      "videoId": "K3iMONjXAEI"
-    },
-    "d_mas": {
-      "difficult": "7.90",
-      "videoId": "K3iMONjXAEI"
-    },
-    "g_bsc": {
-      "difficult": "2.25",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.05",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.95",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.15",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.15",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -598,53 +675,60 @@
     "artist": "colors",
     "bpm": "212",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
+    "imgId": "odQtkUuxLMA",
+    "drum": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": "uuKt9PsQcdw"
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": "HpM5K4mHNzA"
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": "odQtkUuxLMA"
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": "odQtkUuxLMA"
+      }
     },
-    "d_adv": {
-      "difficult": "5.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.10",
-      "videoId": "odQtkUuxLMA"
-    },
-    "d_mas": {
-      "difficult": "8.50",
-      "videoId": "odQtkUuxLMA"
-    },
-    "g_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.85",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.25",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.55",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.50",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     }
   },
   {
@@ -652,53 +736,60 @@
     "artist": "Rookie.F feat.ダイナ四&BEMANI Sound Team \"あさき\"",
     "bpm": "210",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.55",
-      "videoId": ""
+    "imgId": "vnGpnFcYSmQ",
+    "drum": {
+      "bsc": {
+        "difficult": "3.55",
+        "videoId": "gg0BFC68NjU"
+      },
+      "adv": {
+        "difficult": "6.20",
+        "videoId": "mUIKqCdBtxY"
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": "vnGpnFcYSmQ"
+      },
+      "mas": {
+        "difficult": "9.65",
+        "videoId": "vnGpnFcYSmQ"
+      }
     },
-    "d_adv": {
-      "difficult": "6.20",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.00",
-      "videoId": "vnGpnFcYSmQ"
-    },
-    "d_mas": {
-      "difficult": "9.65",
-      "videoId": "vnGpnFcYSmQ"
-    },
-    "g_bsc": {
-      "difficult": "2.75",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.40",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.45",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.90",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.45",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": ""
+      }
     }
   },
   {
@@ -706,53 +797,60 @@
     "artist": "migimimi sleep tight",
     "bpm": "195",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
+    "imgId": "xfHaXhA8Xto",
+    "drum": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": "5dQVtm4QRGU"
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": "n0NBnrKKOgE"
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": "xfHaXhA8Xto"
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": "xfHaXhA8Xto"
+      }
     },
-    "d_adv": {
-      "difficult": "4.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.80",
-      "videoId": "xfHaXhA8Xto"
-    },
-    "d_mas": {
-      "difficult": "6.90",
-      "videoId": "xfHaXhA8Xto"
-    },
-    "g_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -760,53 +858,60 @@
     "artist": "穐田和恵 feat.MiA",
     "bpm": "186",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
+    "imgId": "4-OiyYC2YXw",
+    "drum": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": "BT--ZuAXvAs"
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": "b9gLmw7VzZk"
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": "4-OiyYC2YXw"
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": "4-OiyYC2YXw"
+      }
     },
-    "d_adv": {
-      "difficult": "4.65",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.45",
-      "videoId": "4-OiyYC2YXw"
-    },
-    "d_mas": {
-      "difficult": "7.70",
-      "videoId": "4-OiyYC2YXw"
-    },
-    "g_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.65",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.10",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.20",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": ""
+      }
     }
   },
   {
@@ -814,53 +919,60 @@
     "artist": "佐藤 優樹",
     "bpm": "138",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
+    "imgId": "DJfQPSLuPCY",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": "QSbEX5mB8co"
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": "_Uvufiql8So"
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": "DJfQPSLuPCY"
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": "DJfQPSLuPCY"
+      }
     },
-    "d_adv": {
-      "difficult": "4.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.90",
-      "videoId": "DJfQPSLuPCY"
-    },
-    "d_mas": {
-      "difficult": "8.40",
-      "videoId": "DJfQPSLuPCY"
-    },
-    "g_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.70",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.05",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.05",
+        "videoId": ""
+      }
     }
   },
   {
@@ -868,53 +980,60 @@
     "artist": "BEMANI Sound Team \"肥塚良彦\"",
     "bpm": "178",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.75",
-      "videoId": ""
+    "imgId": "thCzwZCS-gI",
+    "drum": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": "-GYMHdCCmKk"
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "43ZuhXM8Slc"
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": "thCzwZCS-gI"
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": "thCzwZCS-gI"
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.10",
-      "videoId": "thCzwZCS-gI"
-    },
-    "d_mas": {
-      "difficult": "7.50",
-      "videoId": "thCzwZCS-gI"
-    },
-    "g_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.00",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.15",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.15",
+        "videoId": ""
+      }
     }
   },
   {
@@ -922,53 +1041,60 @@
     "artist": "SARAH",
     "bpm": "200",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.75",
-      "videoId": ""
+    "imgId": "3o1krNYIWoM",
+    "drum": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": "NPDPil0BSGE"
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": "umLeFGLo9p8"
+      },
+      "ext": {
+        "difficult": "6.15",
+        "videoId": "3o1krNYIWoM"
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": "3o1krNYIWoM"
+      }
     },
-    "d_adv": {
-      "difficult": "4.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.60",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.15",
-      "videoId": "3o1krNYIWoM"
-    },
-    "d_mas": {
-      "difficult": "7.60",
-      "videoId": "3o1krNYIWoM"
-    },
-    "g_bsc": {
-      "difficult": "2.25",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.75",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "4.95",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "6.60",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "1.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.25",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.85",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.00",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "1.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.00",
+        "videoId": ""
+      }
     }
   },
   {
@@ -976,53 +1102,60 @@
     "artist": "good-cool ft. すわひでお",
     "bpm": "146",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
+    "imgId": "s2ARoR3R9N0",
+    "drum": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": "jGGvX4kRHtM"
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": "h-4qDOlJLJE"
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": "s2ARoR3R9N0"
+      },
+      "mas": {
+        "difficult": "9.20",
+        "videoId": "s2ARoR3R9N0"
+      }
     },
-    "d_adv": {
-      "difficult": "4.65",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.55",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.20",
-      "videoId": "s2ARoR3R9N0"
-    },
-    "d_mas": {
-      "difficult": "9.20",
-      "videoId": "s2ARoR3R9N0"
-    },
-    "g_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.55",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.95",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.25",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.15",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.05",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.05",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1030,53 +1163,60 @@
     "artist": "豚乙女",
     "bpm": "158",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.60",
-      "videoId": ""
+    "imgId": "_POxqc2vTjY",
+    "drum": {
+      "bsc": {
+        "difficult": "3.60",
+        "videoId": "nmEGsHvucNE"
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": "-8yiOsPOuyM"
+      },
+      "ext": {
+        "difficult": "6.55",
+        "videoId": "_POxqc2vTjY"
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": "_POxqc2vTjY"
+      }
     },
-    "d_adv": {
-      "difficult": "4.90",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.55",
-      "videoId": "_POxqc2vTjY"
-    },
-    "d_mas": {
-      "difficult": "8.20",
-      "videoId": "_POxqc2vTjY"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.85",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.55",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.55",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1084,53 +1224,60 @@
     "artist": "あさき",
     "bpm": "110-135",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
+    "imgId": "nEPU-jZLMtQ",
+    "drum": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": "CWr6fGCXbnw"
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": "aQAPNA5HGFY"
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": "nEPU-jZLMtQ"
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": "nEPU-jZLMtQ"
+      }
     },
-    "d_adv": {
-      "difficult": "4.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.65",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.45",
-      "videoId": "nEPU-jZLMtQ"
-    },
-    "d_mas": {
-      "difficult": "7.85",
-      "videoId": "nEPU-jZLMtQ"
-    },
-    "g_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.35",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.65",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.15",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.15",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1138,53 +1285,60 @@
     "artist": "BEMANI Sound Team \"哲学\"",
     "bpm": "140",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.10",
-      "videoId": ""
+    "imgId": "oJhg1kt8BbM",
+    "drum": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": "JuuQTY0Lc4Y"
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": "nbuVWzMuN3s"
+      },
+      "ext": {
+        "difficult": "7.50",
+        "videoId": "oJhg1kt8BbM"
+      },
+      "mas": {
+        "difficult": "9.50",
+        "videoId": "oJhg1kt8BbM"
+      }
     },
-    "d_adv": {
-      "difficult": "5.20",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.50",
-      "videoId": "oJhg1kt8BbM"
-    },
-    "d_mas": {
-      "difficult": "9.50",
-      "videoId": "oJhg1kt8BbM"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.75",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.55",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.05",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.85",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.45",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.30",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1192,53 +1346,60 @@
     "artist": "Power Of Nature",
     "bpm": "154",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
+    "imgId": "Qnvfmq6Hgek",
+    "drum": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": "F3DgJBJwMGM"
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": "SQA3rPTheLo"
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": "Qnvfmq6Hgek"
+      },
+      "mas": {
+        "difficult": "9.25",
+        "videoId": "Qnvfmq6Hgek"
+      }
     },
-    "d_adv": {
-      "difficult": "4.90",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.00",
-      "videoId": "Qnvfmq6Hgek"
-    },
-    "d_mas": {
-      "difficult": "9.25",
-      "videoId": "Qnvfmq6Hgek"
-    },
-    "g_bsc": {
-      "difficult": "3.90",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.30",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.50",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1246,53 +1407,60 @@
     "artist": "Blanc Bunny Bandit",
     "bpm": "182",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
+    "imgId": "z7fxdEYorS8",
+    "drum": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": "DFt1ny3vdbo"
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": "BSDwLhbUtiI"
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "z7fxdEYorS8"
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": "z7fxdEYorS8"
+      }
     },
-    "d_adv": {
-      "difficult": "4.20",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.00",
-      "videoId": "z7fxdEYorS8"
-    },
-    "d_mas": {
-      "difficult": "7.90",
-      "videoId": "z7fxdEYorS8"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.50",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.30",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.30",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1300,53 +1468,60 @@
     "artist": "Blanc Bunny Bandit",
     "bpm": "138",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.90",
-      "videoId": ""
+    "imgId": "LDqgrGS5zKQ",
+    "drum": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": "6Ke40FgDbpM"
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": "6WTNrgj6fc4"
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": "LDqgrGS5zKQ"
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": "LDqgrGS5zKQ"
+      }
     },
-    "d_adv": {
-      "difficult": "3.90",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.30",
-      "videoId": "LDqgrGS5zKQ"
-    },
-    "d_mas": {
-      "difficult": "7.30",
-      "videoId": "LDqgrGS5zKQ"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.95",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.95",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.00",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1354,53 +1529,60 @@
     "artist": "Blanc Bunny Bandit",
     "bpm": "145",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.90",
-      "videoId": ""
+    "imgId": "2ML7sXcPRRE",
+    "drum": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": "w1HQ3x_Y62I"
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "c-wtximocKY"
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": "2ML7sXcPRRE"
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": "2ML7sXcPRRE"
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.30",
-      "videoId": "2ML7sXcPRRE"
-    },
-    "d_mas": {
-      "difficult": "8.10",
-      "videoId": "2ML7sXcPRRE"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.95",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.90",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.75",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.05",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.75",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1408,53 +1590,60 @@
     "artist": "Blanc Bunny Bandit",
     "bpm": "118",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
+    "imgId": "d_PtytyPk8Y",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": "kEdjLqqdTmo"
+      },
+      "adv": {
+        "difficult": "3.70",
+        "videoId": "v7FGe22Z0_Y"
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": "d_PtytyPk8Y"
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": "d_PtytyPk8Y"
+      }
     },
-    "d_adv": {
-      "difficult": "3.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.60",
-      "videoId": "d_PtytyPk8Y"
-    },
-    "d_mas": {
-      "difficult": "7.70",
-      "videoId": "d_PtytyPk8Y"
-    },
-    "g_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.05",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.90",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.90",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.00",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1462,53 +1651,60 @@
     "artist": "BEMANI Sound Team",
     "bpm": "135",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
+    "imgId": "xq2q40IPdJE",
+    "drum": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": "zRs_h_xdLas"
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "cwmXY-5zw08"
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "xq2q40IPdJE"
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": "xq2q40IPdJE"
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.00",
-      "videoId": "xq2q40IPdJE"
-    },
-    "d_mas": {
-      "difficult": "8.30",
-      "videoId": "xq2q40IPdJE"
-    },
-    "g_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.25",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.85",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1516,53 +1712,60 @@
     "artist": "BEMANI Sound Team",
     "bpm": "160",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
+    "imgId": "zsJjfASzLOA",
+    "drum": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": "aDW8Cpp3k3I"
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": "aDW8Cpp3k3I"
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": "zsJjfASzLOA"
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": "zsJjfASzLOA"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.55",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.90",
-      "videoId": "zsJjfASzLOA"
-    },
-    "d_mas": {
-      "difficult": "7.80",
-      "videoId": "zsJjfASzLOA"
-    },
-    "g_bsc": {
-      "difficult": "2.05",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.55",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.80",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.20",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1570,53 +1773,60 @@
     "artist": "BEMANI Sound Team",
     "bpm": "135-175",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
+    "imgId": "w4GfSaLcVO0",
+    "drum": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": "vk7E-FLGQXY"
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": "vk7E-FLGQXY"
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "w4GfSaLcVO0"
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": "w4GfSaLcVO0"
+      }
     },
-    "d_adv": {
-      "difficult": "4.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.00",
-      "videoId": "w4GfSaLcVO0"
-    },
-    "d_mas": {
-      "difficult": "8.40",
-      "videoId": "w4GfSaLcVO0"
-    },
-    "g_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.30",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1624,53 +1834,60 @@
     "artist": "BEMANI Sound Team",
     "bpm": "136",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
+    "imgId": "p6Ag33cMV6M",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": "bMvPV5Ne21g"
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "bMvPV5Ne21g"
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": "p6Ag33cMV6M"
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": "p6Ag33cMV6M"
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.10",
-      "videoId": "p6Ag33cMV6M"
-    },
-    "d_mas": {
-      "difficult": "9.40",
-      "videoId": "p6Ag33cMV6M"
-    },
-    "g_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.20",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.00",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1678,53 +1895,60 @@
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "bpm": "125",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.50",
-      "videoId": ""
+    "imgId": "AXyaiALZQag",
+    "drum": {
+      "bsc": {
+        "difficult": "4.50",
+        "videoId": "ZuAgOb34mUM"
+      },
+      "adv": {
+        "difficult": "6.55",
+        "videoId": "Nn9iuTuLBn0"
+      },
+      "ext": {
+        "difficult": "8.70",
+        "videoId": "AXyaiALZQag"
+      },
+      "mas": {
+        "difficult": "9.65",
+        "videoId": "AXyaiALZQag"
+      }
     },
-    "d_adv": {
-      "difficult": "6.55",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.55",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.70",
-      "videoId": ""
-    },
-    "d_mas": {
-      "difficult": "9.65",
-      "videoId": ""
-    },
-    "g_bsc": {
-      "difficult": "4.10",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.05",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.55",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "8.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "9.35",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1732,53 +1956,60 @@
     "artist": "SOUND HOLIC Vs. BEMANI Sound Team \"T.Kakuta\" feat. Nana Takahashi",
     "bpm": "211",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.50",
-      "videoId": ""
+    "imgId": "wzQmVbCzsWw",
+    "drum": {
+      "bsc": {
+        "difficult": "4.50",
+        "videoId": "zifmYMWgQ2c"
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": "_Rj-vQcjAvU"
+      },
+      "ext": {
+        "difficult": "8.45",
+        "videoId": "wzQmVbCzsWw"
+      },
+      "mas": {
+        "difficult": "9.55",
+        "videoId": "wzQmVbCzsWw"
+      }
     },
-    "d_adv": {
-      "difficult": "6.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.55",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.45",
-      "videoId": "wzQmVbCzsWw"
-    },
-    "d_mas": {
-      "difficult": "9.55",
-      "videoId": "wzQmVbCzsWw"
-    },
-    "g_bsc": {
-      "difficult": "4.15",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.55",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "4.35",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.55",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "9.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1786,53 +2017,60 @@
     "artist": "工藤吉三(ベイシスケイプ)",
     "bpm": "150",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.20",
-      "videoId": ""
+    "imgId": "E8elchSH5AM",
+    "drum": {
+      "bsc": {
+        "difficult": "4.20",
+        "videoId": "v5ed4W7omtM"
+      },
+      "adv": {
+        "difficult": "6.15",
+        "videoId": "sw6QHRjoABw"
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": "E8elchSH5AM"
+      },
+      "mas": {
+        "difficult": "9.25",
+        "videoId": "E8elchSH5AM"
+      }
     },
-    "d_adv": {
-      "difficult": "6.15",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.60",
-      "videoId": "E8elchSH5AM"
-    },
-    "d_mas": {
-      "difficult": "9.25",
-      "videoId": "E8elchSH5AM"
-    },
-    "g_bsc": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.85",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.00",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1840,53 +2078,60 @@
     "artist": "red glasses feat.岡 聡志",
     "bpm": "134",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.10",
-      "videoId": ""
+    "imgId": "EgQYN5g8Zg0",
+    "drum": {
+      "bsc": {
+        "difficult": "4.10",
+        "videoId": "luCoMIxopaw"
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": "wczxznO3Qvc"
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": "EgQYN5g8Zg0"
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": "EgQYN5g8Zg0"
+      }
     },
-    "d_adv": {
-      "difficult": "6.10",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.60",
-      "videoId": "EgQYN5g8Zg0"
-    },
-    "d_mas": {
-      "difficult": "9.35",
-      "videoId": "EgQYN5g8Zg0"
-    },
-    "g_bsc": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.70",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1894,53 +2139,60 @@
     "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
     "bpm": "210",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.80",
-      "videoId": ""
+    "imgId": "AiyIVTyruIk",
+    "drum": {
+      "bsc": {
+        "difficult": "3.80",
+        "videoId": "OfNYg_IFiEA"
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": "YTi6XLCdLR0"
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": "AiyIVTyruIk"
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": "AiyIVTyruIk"
+      }
     },
-    "d_adv": {
-      "difficult": "5.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.95",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.20",
-      "videoId": "AiyIVTyruIk"
-    },
-    "d_mas": {
-      "difficult": "8.50",
-      "videoId": "AiyIVTyruIk"
-    },
-    "g_bsc": {
-      "difficult": "3.95",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.45",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.95",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -1948,53 +2200,60 @@
     "artist": "BEMANI Sound Team \"El Dorado\"",
     "bpm": "150",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
+    "imgId": "WhjZuQw-tp8",
+    "drum": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": "skpdji_FzzI"
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": "S7X-Mc2kfM8"
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": "WhjZuQw-tp8"
+      },
+      "mas": {
+        "difficult": "9.30",
+        "videoId": "WhjZuQw-tp8"
+      }
     },
-    "d_adv": {
-      "difficult": "6.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.50",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.60",
-      "videoId": "WhjZuQw-tp8"
-    },
-    "d_mas": {
-      "difficult": "9.30",
-      "videoId": "WhjZuQw-tp8"
-    },
-    "g_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.50",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.35",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.15",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.25",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.60",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2002,53 +2261,60 @@
     "artist": "colored strings",
     "bpm": "154",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
+    "imgId": "Z7VkBmQ_K6U",
+    "drum": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": "ib2_jMZL1-o"
+      },
+      "adv": {
+        "difficult": "6.20",
+        "videoId": "74mluNC253A"
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": "Z7VkBmQ_K6U"
+      },
+      "mas": {
+        "difficult": "9.50",
+        "videoId": "Z7VkBmQ_K6U"
+      }
     },
-    "d_adv": {
-      "difficult": "6.20",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.00",
-      "videoId": "Z7VkBmQ_K6U"
-    },
-    "d_mas": {
-      "difficult": "9.50",
-      "videoId": "Z7VkBmQ_K6U"
-    },
-    "g_bsc": {
-      "difficult": "4.05",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.35",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.35",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.95",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.45",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2056,53 +2322,60 @@
     "artist": "BEMANI Sound Team \"HuΣeR × Yvya\"",
     "bpm": "165",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.70",
-      "videoId": ""
+    "imgId": "sRN07S-EgGw",
+    "drum": {
+      "bsc": {
+        "difficult": "4.70",
+        "videoId": "Fc61qQkcfZc"
+      },
+      "adv": {
+        "difficult": "6.80",
+        "videoId": "CuE82t33wNg"
+      },
+      "ext": {
+        "difficult": "8.30",
+        "videoId": "sRN07S-EgGw"
+      },
+      "mas": {
+        "difficult": "9.45",
+        "videoId": "sRN07S-EgGw"
+      }
     },
-    "d_adv": {
-      "difficult": "6.80",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.77",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.30",
-      "videoId": "sRN07S-EgGw"
-    },
-    "d_mas": {
-      "difficult": "9.45",
-      "videoId": "sRN07S-EgGw"
-    },
-    "g_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.25",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.05",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.77",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.95",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.65",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.65",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2110,53 +2383,60 @@
     "artist": "BEMANI Sound Team \"Akhuta Works\"",
     "bpm": "140",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "5.40",
-      "videoId": ""
+    "imgId": "8DO_fY3ZOao",
+    "drum": {
+      "bsc": {
+        "difficult": "5.40",
+        "videoId": "RrRR3I-jdtg"
+      },
+      "adv": {
+        "difficult": "6.40",
+        "videoId": "NvKV4Zwvdu8"
+      },
+      "ext": {
+        "difficult": "8.50",
+        "videoId": "8DO_fY3ZOao"
+      },
+      "mas": {
+        "difficult": "9.85",
+        "videoId": "8DO_fY3ZOao"
+      }
     },
-    "d_adv": {
-      "difficult": "6.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.55",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.65",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.50",
-      "videoId": "8DO_fY3ZOao"
-    },
-    "d_mas": {
-      "difficult": "9.85",
-      "videoId": "8DO_fY3ZOao"
-    },
-    "g_bsc": {
-      "difficult": "4.10",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.55",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.65",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "8.35",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "9.35",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2164,53 +2444,60 @@
     "artist": "BEMANI Sound Team \"DJ TOTTO\"",
     "bpm": "193",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.40",
-      "videoId": ""
+    "imgId": "h9oBUYDC7Vo",
+    "drum": {
+      "bsc": {
+        "difficult": "4.40",
+        "videoId": "eLVykyGDxCs"
+      },
+      "adv": {
+        "difficult": "6.70",
+        "videoId": "eLVykyGDxCs"
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": "h9oBUYDC7Vo"
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": "h9oBUYDC7Vo"
+      }
     },
-    "d_adv": {
-      "difficult": "6.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.38",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.20",
-      "videoId": "h9oBUYDC7Vo"
-    },
-    "d_mas": {
-      "difficult": "9.40",
-      "videoId": "h9oBUYDC7Vo"
-    },
-    "g_bsc": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.38",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.95",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.95",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2218,53 +2505,60 @@
     "artist": "Trick Trap",
     "bpm": "150",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.60",
-      "videoId": ""
+    "imgId": "bAb3vAnh7S8",
+    "drum": {
+      "bsc": {
+        "difficult": "4.60",
+        "videoId": "GTz2ifZjIHs"
+      },
+      "adv": {
+        "difficult": "5.30",
+        "videoId": "GTz2ifZjIHs"
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": "bAb3vAnh7S8"
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": "bAb3vAnh7S8"
+      }
     },
-    "d_adv": {
-      "difficult": "5.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.55",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.60",
-      "videoId": "bAb3vAnh7S8"
-    },
-    "d_mas": {
-      "difficult": "8.90",
-      "videoId": "bAb3vAnh7S8"
-    },
-    "g_bsc": {
-      "difficult": "3.75",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.55",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.45",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.25",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "9.65",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.65",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2272,53 +2566,60 @@
     "artist": "BEMANI Sound Team \"Yvya\"",
     "bpm": "140",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.60",
-      "videoId": ""
+    "imgId": "DJjS5i5_vBQ",
+    "drum": {
+      "bsc": {
+        "difficult": "4.60",
+        "videoId": "MUiGwJXsGJQ"
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": "MUiGwJXsGJQ"
+      },
+      "ext": {
+        "difficult": "7.90",
+        "videoId": "DJjS5i5_vBQ"
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": "DJjS5i5_vBQ"
+      }
     },
-    "d_adv": {
-      "difficult": "6.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.90",
-      "videoId": "DJjS5i5_vBQ"
-    },
-    "d_mas": {
-      "difficult": "9.10",
-      "videoId": "DJjS5i5_vBQ"
-    },
-    "g_bsc": {
-      "difficult": "4.75",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "6.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.40",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.65",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.65",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2326,53 +2627,60 @@
     "artist": "ひまわり*パンチ",
     "bpm": "210",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.20",
-      "videoId": ""
+    "imgId": "479bjkzSDjY",
+    "drum": {
+      "bsc": {
+        "difficult": "4.20",
+        "videoId": "0mAqFFQqqYU"
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": "0mAqFFQqqYU"
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": "479bjkzSDjY"
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": "479bjkzSDjY"
+      }
     },
-    "d_adv": {
-      "difficult": "6.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.00",
-      "videoId": "479bjkzSDjY"
-    },
-    "d_mas": {
-      "difficult": "9.00",
-      "videoId": "479bjkzSDjY"
-    },
-    "g_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2380,53 +2688,60 @@
     "artist": "Rotten Blotch",
     "bpm": "104",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
+    "imgId": "Dc2eox-_lRU",
+    "drum": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": "dirnkwfJW3w"
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": "bjILUiP0m0I"
+      },
+      "ext": {
+        "difficult": "4.80",
+        "videoId": "cRxOCt0B80I"
+      },
+      "mas": {
+        "difficult": "6.15",
+        "videoId": "Dc2eox-_lRU"
+      }
     },
-    "d_adv": {
-      "difficult": "3.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.35",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "d_mas": {
-      "difficult": "6.15",
-      "videoId": ""
-    },
-    "g_bsc": {
-      "difficult": "1.45",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "6.35",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.15",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.45",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "5.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "5.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2434,53 +2749,60 @@
     "artist": "ひまわり*パンチ",
     "bpm": "174",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
+    "imgId": "Qve_SZoSGxQ",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": "k0KxI_49sf8"
+      },
+      "adv": {
+        "difficult": "3.70",
+        "videoId": "6BT4_LYk5yY"
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": "Qve_SZoSGxQ"
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": "Qve_SZoSGxQ"
+      }
     },
-    "d_adv": {
-      "difficult": "3.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.35",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.10",
-      "videoId": "Qve_SZoSGxQ"
-    },
-    "d_mas": {
-      "difficult": "7.00",
-      "videoId": "Qve_SZoSGxQ"
-    },
-    "g_bsc": {
-      "difficult": "2.95",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.05",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.35",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.25",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2488,53 +2810,60 @@
     "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
     "bpm": "135",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.70",
-      "videoId": ""
+    "imgId": "xfpZJ14yZj8",
+    "drum": {
+      "bsc": {
+        "difficult": "4.70",
+        "videoId": "40-D_MaAVV8"
+      },
+      "adv": {
+        "difficult": "6.70",
+        "videoId": "Vnw7pngmam8"
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": "xfpZJ14yZj8"
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": "xfpZJ14yZj8"
+      }
     },
-    "d_adv": {
-      "difficult": "6.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.00",
-      "videoId": "xfpZJ14yZj8"
-    },
-    "d_mas": {
-      "difficult": "9.40",
-      "videoId": "xfpZJ14yZj8"
-    },
-    "g_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.45",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.95",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.95",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2542,53 +2871,60 @@
     "artist": "MAKI",
     "bpm": "132",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
+    "imgId": "ZAkz45kUC5I",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": "ZAkz45kUC5I"
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": "ZAkz45kUC5I"
+      }
     },
-    "d_adv": {
-      "difficult": "3.90",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.60",
-      "videoId": "ZAkz45kUC5I"
-    },
-    "d_mas": {
-      "difficult": "7.00",
-      "videoId": "ZAkz45kUC5I"
-    },
-    "g_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "5.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "5.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2596,53 +2932,60 @@
     "artist": "泉 陸奥彦",
     "bpm": "200",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
+    "imgId": "y4p7V0dOgsk",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "y4p7V0dOgsk"
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": "y4p7V0dOgsk"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.00",
-      "videoId": "y4p7V0dOgsk"
-    },
-    "d_mas": {
-      "difficult": "7.30",
-      "videoId": "y4p7V0dOgsk"
-    },
-    "g_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.10",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.30",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.80",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.30",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2650,53 +2993,60 @@
     "artist": "MEG feat. Keita (from FAR EAST DIZAIN)",
     "bpm": "133",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
+    "imgId": "IPhgRl40z-k",
+    "drum": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": "X1-IoAQC7Oc"
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": "gSZaPXOKEnM"
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": "IPhgRl40z-k"
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": "IPhgRl40z-k"
+      }
     },
-    "d_adv": {
-      "difficult": "4.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.30",
-      "videoId": "IPhgRl40z-k"
-    },
-    "d_mas": {
-      "difficult": "7.70",
-      "videoId": "IPhgRl40z-k"
-    },
-    "g_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.60",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2704,53 +3054,60 @@
     "artist": "Anna Vieste",
     "bpm": "136",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
+    "imgId": "wuMah63-D2Y",
+    "drum": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": "wuMah63-D2Y"
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": "wuMah63-D2Y"
+      }
     },
-    "d_adv": {
-      "difficult": "4.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.60",
-      "videoId": "wuMah63-D2Y"
-    },
-    "d_mas": {
-      "difficult": "6.80",
-      "videoId": "wuMah63-D2Y"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2758,53 +3115,60 @@
     "artist": "Maro",
     "bpm": "185",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
+    "imgId": "P4WpyQ9UHTU",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": "JLTgwxl0Zbw"
+      },
+      "adv": {
+        "difficult": "5.60",
+        "videoId": "TKHgi12cRGE"
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": "P4WpyQ9UHTU"
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": "P4WpyQ9UHTU"
+      }
     },
-    "d_adv": {
-      "difficult": "5.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.00",
-      "videoId": "P4WpyQ9UHTU"
-    },
-    "d_mas": {
-      "difficult": "8.20",
-      "videoId": "P4WpyQ9UHTU"
-    },
-    "g_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.00",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2812,53 +3176,60 @@
     "artist": "古川もとあき",
     "bpm": "190",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
+    "imgId": "Cw_vk3ASY1o",
+    "drum": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": "MwSPIYiXj4g"
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "L_WUyt1xzEM"
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": "Cw_vk3ASY1o"
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": "Cw_vk3ASY1o"
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "d_mas": {
-      "difficult": "8.00",
-      "videoId": ""
-    },
-    "g_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.30",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.70",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.20",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2866,53 +3237,60 @@
     "artist": "BEMANI Sound Team \"Holy Saint Metal Man\"",
     "bpm": "214",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.90",
-      "videoId": ""
+    "imgId": "XZJqN50KMJY",
+    "drum": {
+      "bsc": {
+        "difficult": "4.90",
+        "videoId": "I8MdaZbsmJQ"
+      },
+      "adv": {
+        "difficult": "6.50",
+        "videoId": "X2GjzrMPbRU"
+      },
+      "ext": {
+        "difficult": "8.40",
+        "videoId": "XZJqN50KMJY"
+      },
+      "mas": {
+        "difficult": "9.50",
+        "videoId": "XZJqN50KMJY"
+      }
     },
-    "d_adv": {
-      "difficult": "6.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.40",
-      "videoId": "XZJqN50KMJY"
-    },
-    "d_mas": {
-      "difficult": "9.50",
-      "videoId": "XZJqN50KMJY"
-    },
-    "g_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.30",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2920,53 +3298,60 @@
     "artist": "龍",
     "bpm": "155",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
+    "imgId": "23rH-qrP0gw",
+    "drum": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": "nbQczKzBhUY"
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": "HYbtBnJlkQ4"
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": "23rH-qrP0gw"
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": "23rH-qrP0gw"
+      }
     },
-    "d_adv": {
-      "difficult": "4.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.20",
-      "videoId": "23rH-qrP0gw"
-    },
-    "d_mas": {
-      "difficult": "7.60",
-      "videoId": "23rH-qrP0gw"
-    },
-    "g_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.20",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": ""
+      }
     }
   },
   {
@@ -2974,53 +3359,60 @@
     "artist": "中島由貴",
     "bpm": "190",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.60",
-      "videoId": ""
+    "imgId": "2Hq6heGQguw",
+    "drum": {
+      "bsc": {
+        "difficult": "3.60",
+        "videoId": "A6YWDHKfmjU"
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": "kpwMwfQudsU"
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": "2Hq6heGQguw"
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": "2Hq6heGQguw"
+      }
     },
-    "d_adv": {
-      "difficult": "6.10",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.30",
-      "videoId": "2Hq6heGQguw"
-    },
-    "d_mas": {
-      "difficult": "8.90",
-      "videoId": "2Hq6heGQguw"
-    },
-    "g_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.40",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.70",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.60",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.65",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.30",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3028,53 +3420,60 @@
     "artist": "BEMANI Sound Team \"Akhuta Works\"",
     "bpm": "200",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
+    "imgId": "rwB6ReB0PDY",
+    "drum": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": "MCyr9LDWHkU"
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": "3JUlkVNn-9M"
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": "rwB6ReB0PDY"
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": "rwB6ReB0PDY"
+      }
     },
-    "d_adv": {
-      "difficult": "4.80",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.90",
-      "videoId": "rwB6ReB0PDY"
-    },
-    "d_mas": {
-      "difficult": "9.00",
-      "videoId": "rwB6ReB0PDY"
-    },
-    "g_bsc": {
-      "difficult": "2.10",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.05",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.20",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.55",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3082,53 +3481,60 @@
     "artist": "ひまわり*パンチ",
     "bpm": "132",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
+    "imgId": "EsOHDNXVYHc",
+    "drum": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": "knOpenHunP4"
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": "knOpenHunP4"
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": "EsOHDNXVYHc"
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": "EsOHDNXVYHc"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.50",
-      "videoId": "EsOHDNXVYHc"
-    },
-    "d_mas": {
-      "difficult": "8.00",
-      "videoId": "EsOHDNXVYHc"
-    },
-    "g_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.65",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3136,53 +3542,60 @@
     "artist": "KUMIKO",
     "bpm": "117",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
+    "imgId": "HpmmExDXaL4",
+    "drum": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": "HpmmExDXaL4"
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": "HpmmExDXaL4"
+      }
     },
-    "d_adv": {
-      "difficult": "5.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.90",
-      "videoId": "HpmmExDXaL4"
-    },
-    "d_mas": {
-      "difficult": "8.50",
-      "videoId": "HpmmExDXaL4"
-    },
-    "g_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.50",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.80",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3190,53 +3603,60 @@
     "artist": "Nine Universe",
     "bpm": "162",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
+    "imgId": "-rD8jsQU4M0",
+    "drum": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": "cyJgdS_Z2H4"
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": "umc8509GlFc"
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": "-rD8jsQU4M0"
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": "-rD8jsQU4M0"
+      }
     },
-    "d_adv": {
-      "difficult": "4.20",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.50",
-      "videoId": "rD8jsQU4M0"
-    },
-    "d_mas": {
-      "difficult": "7.70",
-      "videoId": "rD8jsQU4M0"
-    },
-    "g_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.30",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3244,53 +3664,60 @@
     "artist": "零 -zero-",
     "bpm": "276",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
+    "imgId": "GhpC2XHeE4U",
+    "drum": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": "03FhiI3p3lw"
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "5dm5cZRaPUo"
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": "GhpC2XHeE4U"
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": "GhpC2XHeE4U"
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.30",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.50",
-      "videoId": "GhpC2XHeE4U"
-    },
-    "d_mas": {
-      "difficult": "8.70",
-      "videoId": "GhpC2XHeE4U"
-    },
-    "g_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.35",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.30",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.40",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3298,53 +3725,60 @@
     "artist": "BEMANI Sound Team \"Yvya\"",
     "bpm": "182",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
+    "imgId": "xa0nMoc1l20",
+    "drum": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": "nve7is4NXNo"
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": "QpHtbzI40Zg"
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": "xa0nMoc1l20"
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": "xa0nMoc1l20"
+      }
     },
-    "d_adv": {
-      "difficult": "5.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.05",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.80",
-      "videoId": "xa0nMoc1l20"
-    },
-    "d_mas": {
-      "difficult": "7.80",
-      "videoId": "xa0nMoc1l20"
-    },
-    "g_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.40",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.30",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.05",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.45",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.15",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3352,53 +3786,60 @@
     "artist": "ユグドラシルワークスShun with 砂唏",
     "bpm": "180",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
+    "imgId": "7Wf52anZWKA",
+    "drum": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": "kLix-ryZof8"
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": "Nm0w--YGXl4"
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": "7Wf52anZWKA"
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": "7Wf52anZWKA"
+      }
     },
-    "d_adv": {
-      "difficult": "4.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.40",
-      "videoId": "7Wf52anZWKA"
-    },
-    "d_mas": {
-      "difficult": "8.30",
-      "videoId": "7Wf52anZWKA"
-    },
-    "g_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.05",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.05",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.85",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.80",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3406,53 +3847,60 @@
     "artist": "Rookie.F feat. Sean (from PHOENIX ASH)",
     "bpm": "195",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.00",
-      "videoId": ""
+    "imgId": "CL11kE0CrWw",
+    "drum": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": "u7cvQBP3GMI"
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": "MM7KjEs_Y7Y"
+      },
+      "ext": {
+        "difficult": "7.50",
+        "videoId": "CL11kE0CrWw"
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": "CL11kE0CrWw"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.50",
-      "videoId": "CL11kE0CrWw"
-    },
-    "d_mas": {
-      "difficult": "9.00",
-      "videoId": "CL11kE0CrWw"
-    },
-    "g_bsc": {
-      "difficult": "2.45",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.65",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.30",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.10",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.50",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3460,53 +3908,60 @@
     "artist": "BEMANI Sound Team \"劇団レコード\"feat.浅葉リオ",
     "bpm": "134",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
+    "imgId": "XxOY-PYDXZw",
+    "drum": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": "hShFJc8UqLg"
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": "T6f5QXuAwHQ"
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": "XxOY-PYDXZw"
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": "XxOY-PYDXZw"
+      }
     },
-    "d_adv": {
-      "difficult": "4.10",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.40",
-      "videoId": "XxOY-PYDXZw"
-    },
-    "d_mas": {
-      "difficult": "8.00",
-      "videoId": "XxOY-PYDXZw"
-    },
-    "g_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.75",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.25",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.40",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.55",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3514,53 +3969,60 @@
     "artist": "Des-ROW・組",
     "bpm": "200",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
+    "imgId": "G-zt7ikUchE",
+    "drum": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": "vFeHxcZ_e48"
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": "xVTDALqYRqw"
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": "G-zt7ikUchE"
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": "G-zt7ikUchE"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.90",
-      "videoId": "G-zt7ikUchE"
-    },
-    "d_mas": {
-      "difficult": "7.70",
-      "videoId": "G-zt7ikUchE"
-    },
-    "g_bsc": {
-      "difficult": "1.90",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.85",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.20",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.90",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3568,53 +4030,60 @@
     "artist": "Thomas Howard Lichtenstein",
     "bpm": "150",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
+    "imgId": "F_UzrQehIwA",
+    "drum": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": "T_ZnIjXg5vY"
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": "Jrq812ZDsb8"
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": "F_UzrQehIwA"
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": "F_UzrQehIwA"
+      }
     },
-    "d_adv": {
-      "difficult": "6.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.00",
-      "videoId": "F_UzrQehIwA"
-    },
-    "d_mas": {
-      "difficult": "9.40",
-      "videoId": "F_UzrQehIwA"
-    },
-    "g_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.15",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.40",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3622,53 +4091,60 @@
     "artist": "Thomas Howard Lichtenstein",
     "bpm": "110",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
+    "imgId": "c8Zk6tnZNKU",
+    "drum": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": "TkFbcS-Vet8"
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": "6NKRdH45f0s"
+      },
+      "ext": {
+        "difficult": "5.00",
+        "videoId": "c8Zk6tnZNKU"
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": "c8Zk6tnZNKU"
+      }
     },
-    "d_adv": {
-      "difficult": "3.80",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.00",
-      "videoId": "c8Zk6tnZNKU"
-    },
-    "d_mas": {
-      "difficult": "7.30",
-      "videoId": "c8Zk6tnZNKU"
-    },
-    "g_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3676,53 +4152,60 @@
     "artist": "Thomas Howard Lichtenstein with AMSD BAND",
     "bpm": "129",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
+    "imgId": "O01YcTmwqFM",
+    "drum": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": "jjtrLEB8L6c"
+      },
+      "adv": {
+        "difficult": "3.50",
+        "videoId": "sSn_Zi1LKtU"
+      },
+      "ext": {
+        "difficult": "4.40",
+        "videoId": "O01YcTmwqFM"
+      },
+      "mas": {
+        "difficult": "6.50",
+        "videoId": "O01YcTmwqFM"
+      }
     },
-    "d_adv": {
-      "difficult": "3.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "4.40",
-      "videoId": "O01YcTmwqFM"
-    },
-    "d_mas": {
-      "difficult": "6.50",
-      "videoId": "O01YcTmwqFM"
-    },
-    "g_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.60",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.95",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "-",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "-",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "-",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "-",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "-",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3730,53 +4213,60 @@
     "artist": "ピンクカプセル",
     "bpm": "186",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
+    "imgId": "VUAb9jun-wg",
+    "drum": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": "mfsxWZ8DjXg"
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": "oZXCYH2k6RE"
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": "VUAb9jun-wg"
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": "VUAb9jun-wg"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.40",
-      "videoId": "VUAb9jun-wg"
-    },
-    "d_mas": {
-      "difficult": "7.60",
-      "videoId": "VUAb9jun-wg"
-    },
-    "g_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.60",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.65",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.95",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.60",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3784,53 +4274,60 @@
     "artist": "あさき",
     "bpm": "192",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.80",
-      "videoId": ""
+    "imgId": "4h0-fzXw4T0",
+    "drum": {
+      "bsc": {
+        "difficult": "4.80",
+        "videoId": "WPnSJM6WMdg"
+      },
+      "adv": {
+        "difficult": "6.20",
+        "videoId": "WPnSJM6WMdg"
+      },
+      "ext": {
+        "difficult": "7.70",
+        "videoId": "4h0-fzXw4T0"
+      },
+      "mas": {
+        "difficult": "9.20",
+        "videoId": "4h0-fzXw4T0"
+      }
     },
-    "d_adv": {
-      "difficult": "6.20",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.70",
-      "videoId": "4h0-fzXw4T0"
-    },
-    "d_mas": {
-      "difficult": "9.20",
-      "videoId": "4h0-fzXw4T0"
-    },
-    "g_bsc": {
-      "difficult": "3.80",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.50",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.70",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.20",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3838,53 +4335,60 @@
     "artist": "TAEKO",
     "bpm": "128",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.80",
-      "videoId": ""
+    "imgId": "g81LWRlgHNU",
+    "drum": {
+      "bsc": {
+        "difficult": "1.80",
+        "videoId": "HmIpOc-El4w"
+      },
+      "adv": {
+        "difficult": "3.30",
+        "videoId": "HmIpOc-El4w"
+      },
+      "ext": {
+        "difficult": "4.30",
+        "videoId": "g81LWRlgHNU"
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": "g81LWRlgHNU"
+      }
     },
-    "d_adv": {
-      "difficult": "3.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "4.30",
-      "videoId": "g81LWRlgHNU"
-    },
-    "d_mas": {
-      "difficult": "7.20",
-      "videoId": "g81LWRlgHNU"
-    },
-    "g_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.15",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.00",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.25",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.25",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3892,53 +4396,60 @@
     "artist": "Anna Vieste",
     "bpm": "140",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
+    "imgId": "41HwdfTXl6Q",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": "Ya7AWIj0i_Y"
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": "Ya7AWIj0i_Y"
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": "41HwdfTXl6Q"
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": "41HwdfTXl6Q"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.60",
-      "videoId": "41HwdfTXl6Q"
-    },
-    "d_mas": {
-      "difficult": "7.50",
-      "videoId": "41HwdfTXl6Q"
-    },
-    "g_bsc": {
-      "difficult": "3.60",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.70",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.75",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.00",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.65",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.65",
+        "videoId": ""
+      }
     }
   },
   {
@@ -3946,53 +4457,60 @@
     "artist": "vivi",
     "bpm": "82",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.70",
-      "videoId": ""
+    "imgId": "QuZu4N3ntbE",
+    "drum": {
+      "bsc": {
+        "difficult": "1.70",
+        "videoId": "LNPec0fogmU"
+      },
+      "adv": {
+        "difficult": "3.60",
+        "videoId": "LNPec0fogmU"
+      },
+      "ext": {
+        "difficult": "4.80",
+        "videoId": "QuZu4N3ntbE"
+      },
+      "mas": {
+        "difficult": "6.70",
+        "videoId": "QuZu4N3ntbE"
+      }
     },
-    "d_adv": {
-      "difficult": "3.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "4.80",
-      "videoId": "QuZu4N3ntbE"
-    },
-    "d_mas": {
-      "difficult": "6.70",
-      "videoId": "QuZu4N3ntbE"
-    },
-    "g_bsc": {
-      "difficult": "2.60",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.90",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4000,53 +4518,60 @@
     "artist": "vivi",
     "bpm": "136",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
+    "imgId": "OSVgHPjf2Ew",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": "VYeeWuan_0U"
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": "VYeeWuan_0U"
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "OSVgHPjf2Ew"
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": "OSVgHPjf2Ew"
+      }
     },
-    "d_adv": {
-      "difficult": "4.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.00",
-      "videoId": "OSVgHPjf2Ew"
-    },
-    "d_mas": {
-      "difficult": "7.00",
-      "videoId": "OSVgHPjf2Ew"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.60",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.30",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4054,53 +4579,60 @@
     "artist": "あさき",
     "bpm": "136",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
+    "imgId": "qMaew8c04Mg",
+    "drum": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": "bkZ6uv8q_qM"
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": "bkZ6uv8q_qM"
+      },
+      "ext": {
+        "difficult": "5.40",
+        "videoId": "qMaew8c04Mg"
+      },
+      "mas": {
+        "difficult": "6.30",
+        "videoId": "qMaew8c04Mg"
+      }
     },
-    "d_adv": {
-      "difficult": "3.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.35",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.40",
-      "videoId": "qMaew8c04Mg"
-    },
-    "d_mas": {
-      "difficult": "6.30",
-      "videoId": "qMaew8c04Mg"
-    },
-    "g_bsc": {
-      "difficult": "3.05",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.20",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.35",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.25",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4108,53 +4640,60 @@
     "artist": "Mutsuhiko Izumi",
     "bpm": "160",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
+    "imgId": "tgz5-JH624g",
+    "drum": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": "CmlUVMhlqJo"
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": "CmlUVMhlqJo"
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "tgz5-JH624g"
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": "tgz5-JH624g"
+      }
     },
-    "d_adv": {
-      "difficult": "4.40",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.00",
-      "videoId": "tgz5-JH624g"
-    },
-    "d_mas": {
-      "difficult": "7.80",
-      "videoId": "tgz5-JH624g"
-    },
-    "g_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.95",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.60",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.75",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.40",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.40",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4162,53 +4701,60 @@
     "artist": "Mutsuhiko Izumi",
     "bpm": "215",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
+    "imgId": "1gdIMh0eS9E",
+    "drum": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": "TqHUDGOOUhQ"
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": "TqHUDGOOUhQ"
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": "1gdIMh0eS9E"
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": "1gdIMh0eS9E"
+      }
     },
-    "d_adv": {
-      "difficult": "4.80",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.55",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.10",
-      "videoId": "1gdIMh0eS9E"
-    },
-    "d_mas": {
-      "difficult": "7.80",
-      "videoId": "1gdIMh0eS9E"
-    },
-    "g_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.55",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.90",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "-",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "-",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "-",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "-",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "-",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "-",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4216,53 +4762,60 @@
     "artist": "BEMANI Sound Team \"あさき\" & RENO",
     "bpm": "130",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.80",
-      "videoId": ""
+    "imgId": "D5srqI75WPQ",
+    "drum": {
+      "bsc": {
+        "difficult": "4.80",
+        "videoId": "67zoGBHGUuo"
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": "67zoGBHGUuo"
+      },
+      "ext": {
+        "difficult": "7.70",
+        "videoId": "D5srqI75WPQ"
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": "D5srqI75WPQ"
+      }
     },
-    "d_adv": {
-      "difficult": "6.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.70",
-      "videoId": "D5srqI75WPQ"
-    },
-    "d_mas": {
-      "difficult": "8.60",
-      "videoId": "D5srqI75WPQ"
-    },
-    "g_bsc": {
-      "difficult": "3.60",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.40",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.15",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.30",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.50",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4270,53 +4823,60 @@
     "artist": "あさき",
     "bpm": "153",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.70",
-      "videoId": ""
+    "imgId": "x2SGXuxvD1Q",
+    "drum": {
+      "bsc": {
+        "difficult": "4.70",
+        "videoId": "MdQhFVZOI-k"
+      },
+      "adv": {
+        "difficult": "5.80",
+        "videoId": "MdQhFVZOI-k"
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": "x2SGXuxvD1Q"
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": "x2SGXuxvD1Q"
+      }
     },
-    "d_adv": {
-      "difficult": "5.80",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.00",
-      "videoId": "x2SGXuxvD1Q"
-    },
-    "d_mas": {
-      "difficult": "8.50",
-      "videoId": "x2SGXuxvD1Q"
-    },
-    "g_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.40",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.50",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.50",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4324,53 +4884,60 @@
     "artist": "BEMANI Sound Team \"TOMOSUKE\" feat. Jazzin' park & frances maya",
     "bpm": "135",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
+    "imgId": "2QYULAzwdgc",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": "QmrWRTlADT4"
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": "QmrWRTlADT4"
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": "2QYULAzwdgc"
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": "2QYULAzwdgc"
+      }
     },
-    "d_adv": {
-      "difficult": "4.90",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.50",
-      "videoId": "2QYULAzwdgc"
-    },
-    "d_mas": {
-      "difficult": "8.50",
-      "videoId": "2QYULAzwdgc"
-    },
-    "g_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.75",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4378,53 +4945,60 @@
     "artist": "BEMANI Sound Team \"泉 陸奥彦\"",
     "bpm": "110",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.60",
-      "videoId": ""
+    "imgId": "EfU2OGVxW54",
+    "drum": {
+      "bsc": {
+        "difficult": "3.60",
+        "videoId": "nRmcJtGuybE"
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": "nRmcJtGuybE"
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": "EfU2OGVxW54"
+      },
+      "mas": {
+        "difficult": "9.50",
+        "videoId": "EfU2OGVxW54"
+      }
     },
-    "d_adv": {
-      "difficult": "6.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.20",
-      "videoId": "EfU2OGVxW54"
-    },
-    "d_mas": {
-      "difficult": "9.50",
-      "videoId": "EfU2OGVxW54"
-    },
-    "g_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.60",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.10",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "9.10",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4432,53 +5006,60 @@
     "artist": "ひまわり*パンチ",
     "bpm": "177",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
+    "imgId": "FvGVNLq28-A",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": "T5KEfxXG65g"
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": "T5KEfxXG65g"
+      },
+      "ext": {
+        "difficult": "5.70",
+        "videoId": "FvGVNLq28-A"
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": "FvGVNLq28-A"
+      }
     },
-    "d_adv": {
-      "difficult": "4.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.70",
-      "videoId": "FvGVNLq28-A"
-    },
-    "d_mas": {
-      "difficult": "7.00",
-      "videoId": "FvGVNLq28-A"
-    },
-    "g_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.70",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4486,53 +5067,60 @@
     "artist": "BEMANI Sound Team \"あさき\"",
     "bpm": "134",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.50",
-      "videoId": ""
+    "imgId": "CstYT3S02DA",
+    "drum": {
+      "bsc": {
+        "difficult": "4.50",
+        "videoId": "UB4QnHzTwp8"
+      },
+      "adv": {
+        "difficult": "5.60",
+        "videoId": "UB4QnHzTwp8"
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": "CstYT3S02DA"
+      },
+      "mas": {
+        "difficult": "9.25",
+        "videoId": "CstYT3S02DA"
+      }
     },
-    "d_adv": {
-      "difficult": "5.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.40",
-      "videoId": "CstYT3S02DA"
-    },
-    "d_mas": {
-      "difficult": "9.25",
-      "videoId": "CstYT3S02DA"
-    },
-    "g_bsc": {
-      "difficult": "3.85",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.50",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.20",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.75",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4540,53 +5128,60 @@
     "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
     "bpm": "125-198",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "4.80",
-      "videoId": ""
+    "imgId": "wyldUnceFk8",
+    "drum": {
+      "bsc": {
+        "difficult": "4.80",
+        "videoId": "x6Yng9R9LVA"
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": "x6Yng9R9LVA"
+      },
+      "ext": {
+        "difficult": "7.90",
+        "videoId": "wyldUnceFk8"
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": "wyldUnceFk8"
+      }
     },
-    "d_adv": {
-      "difficult": "6.00",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.30",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.90",
-      "videoId": "wyldUnceFk8"
-    },
-    "d_mas": {
-      "difficult": "9.10",
-      "videoId": "wyldUnceFk8"
-    },
-    "g_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.80",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.30",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "8.90",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4594,53 +5189,60 @@
     "artist": "BEMANI Sound Team \"泉 陸奥彦\"",
     "bpm": "150",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.00",
-      "videoId": ""
+    "imgId": "v-HEiOz8-7I",
+    "drum": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": "sHkB_7Axdwc"
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": "sHkB_7Axdwc"
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": "v-HEiOz8-7I"
+      },
+      "mas": {
+        "difficult": "9.70",
+        "videoId": "v-HEiOz8-7I"
+      }
     },
-    "d_adv": {
-      "difficult": "4.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.20",
-      "videoId": "v-HEiOz8-7I"
-    },
-    "d_mas": {
-      "difficult": "9.70",
-      "videoId": "v-HEiOz8-7I"
-    },
-    "g_bsc": {
-      "difficult": "4.00",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "6.10",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "8.30",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.40",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "5.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "9.00",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4648,53 +5250,60 @@
     "artist": "少年ラジオ",
     "bpm": "199",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
+    "imgId": "vIvKvixNkRo",
+    "drum": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": "wn6pgUfKmqQ"
+      },
+      "adv": {
+        "difficult": "5.80",
+        "videoId": "6mRXbPpNnMg"
+      },
+      "ext": {
+        "difficult": "8.30",
+        "videoId": "PpnDav6JdDE"
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": "vIvKvixNkRo"
+      }
     },
-    "d_adv": {
-      "difficult": "5.80",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "8.30",
-      "videoId": ""
-    },
-    "d_mas": {
-      "difficult": "9.40",
-      "videoId": ""
-    },
-    "g_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.65",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "9.10",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "1.70",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.25",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.50",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "1.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4702,53 +5311,60 @@
     "artist": "PartyCrew (from GD&pm)",
     "bpm": "180",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.00",
-      "videoId": ""
+    "imgId": "o5D3ku7Tg_Q",
+    "drum": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": "GC7ehZNte7o"
+      },
+      "adv": {
+        "difficult": "3.60",
+        "videoId": "g5k_BfsZFIA"
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": "o5D3ku7Tg_Q"
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": "o5D3ku7Tg_Q"
+      }
     },
-    "d_adv": {
-      "difficult": "3.60",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.20",
-      "videoId": "o5D3ku7Tg_Q"
-    },
-    "d_mas": {
-      "difficult": "8.30",
-      "videoId": "o5D3ku7Tg_Q"
-    },
-    "g_bsc": {
-      "difficult": "1.65",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.30",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.00",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.30",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.90",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.20",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.80",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4756,53 +5372,60 @@
     "artist": "MEG feat.KIHIRO (from LOKA)",
     "bpm": "139",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
+    "imgId": "8LjzuY6Ne4I",
+    "drum": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": "-Hfh-rBy8a4"
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": "blZy5Xfx-2I"
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": "8LjzuY6Ne4I"
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": "8LjzuY6Ne4I"
+      }
     },
-    "d_adv": {
-      "difficult": "5.20",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "1.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "6.70",
-      "videoId": "8LjzuY6Ne4I"
-    },
-    "d_mas": {
-      "difficult": "8.40",
-      "videoId": "8LjzuY6Ne4I"
-    },
-    "g_bsc": {
-      "difficult": "1.40",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "3.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "4.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "6.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "1.60",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.05",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "6.60",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "1.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.60",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4810,53 +5433,60 @@
     "artist": "RENO",
     "bpm": "220",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.30",
-      "videoId": ""
+    "imgId": "XK1BNgq5rXs",
+    "drum": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": "IPKnjHP1v48"
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": "WWYBaOzf58I"
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": "XK1BNgq5rXs"
+      },
+      "mas": {
+        "difficult": "9.20",
+        "videoId": "XK1BNgq5rXs"
+      }
     },
-    "d_adv": {
-      "difficult": "4.80",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.20",
-      "videoId": "XK1BNgq5rXs"
-    },
-    "d_mas": {
-      "difficult": "9.20",
-      "videoId": "XK1BNgq5rXs"
-    },
-    "g_bsc": {
-      "difficult": "3.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.40",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.20",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.50",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "7.25",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.80",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4864,53 +5494,60 @@
     "artist": "CHISA feat.MiA",
     "bpm": "146",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "1.60",
-      "videoId": ""
+    "imgId": "l0vUbaRzBsY",
+    "drum": {
+      "bsc": {
+        "difficult": "1.60",
+        "videoId": "8lSwHT--064"
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": "8lSwHT--064"
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": "l0vUbaRzBsY"
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": "l0vUbaRzBsY"
+      }
     },
-    "d_adv": {
-      "difficult": "4.30",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.80",
-      "videoId": "l0vUbaRzBsY"
-    },
-    "d_mas": {
-      "difficult": "7.20",
-      "videoId": "l0vUbaRzBsY"
-    },
-    "g_bsc": {
-      "difficult": "3.10",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.65",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.85",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.80",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.60",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.70",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.40",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.40",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4918,53 +5555,60 @@
     "artist": "八坂沙織 feat.MiA &山吹りょう",
     "bpm": "162",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
+    "imgId": "gQaf4Zn-APA",
+    "drum": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": "AHwKa_foIIY"
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": "AHwKa_foIIY"
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": "gQaf4Zn-APA"
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": "gQaf4Zn-APA"
+      }
     },
-    "d_adv": {
-      "difficult": "4.90",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.90",
-      "videoId": "gQaf4Zn-APA"
-    },
-    "d_mas": {
-      "difficult": "7.60",
-      "videoId": "gQaf4Zn-APA"
-    },
-    "g_bsc": {
-      "difficult": "3.45",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.40",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.90",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.70",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.50",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.50",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
     }
   },
   {
@@ -4972,53 +5616,60 @@
     "artist": "池田高田",
     "bpm": "190",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "2.40",
-      "videoId": ""
+    "imgId": "522E2TmNz-E",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": "Rv9bQMkQqB8"
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": "Rv9bQMkQqB8"
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": "522E2TmNz-E"
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": "522E2TmNz-E"
+      }
     },
-    "d_adv": {
-      "difficult": "4.70",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.55",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "5.80",
-      "videoId": "522E2TmNz-E"
-    },
-    "d_mas": {
-      "difficult": "8.00",
-      "videoId": "522E2TmNz-E"
-    },
-    "g_bsc": {
-      "difficult": "2.70",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "4.80",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "6.60",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "7.55",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.20",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "4.55",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "5.80",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.80",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
     }
   },
   {
@@ -5026,53 +5677,60 @@
     "artist": "BEMANI Sound Team \"Akhuta Works\"",
     "bpm": "220",
     "version": "EXCHAIN",
-    "d_bsc": {
-      "difficult": "3.20",
-      "videoId": ""
+    "imgId": "H1rxr92luYs",
+    "drum": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": "bjLlwDsp_vQ"
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": "bjLlwDsp_vQ"
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": "H1rxr92luYs"
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": "H1rxr92luYs"
+      }
     },
-    "d_adv": {
-      "difficult": "5.50",
-      "videoId": ""
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.80",
+        "videoId": ""
+      }
     },
-    "d_ext": {
-      "difficult": "7.60",
-      "videoId": "H1rxr92luYs"
-    },
-    "d_mas": {
-      "difficult": "8.40",
-      "videoId": "H1rxr92luYs"
-    },
-    "g_bsc": {
-      "difficult": "2.50",
-      "videoId": ""
-    },
-    "g_adv": {
-      "difficult": "5.00",
-      "videoId": ""
-    },
-    "g_ext": {
-      "difficult": "7.20",
-      "videoId": ""
-    },
-    "g_mas": {
-      "difficult": "8.80",
-      "videoId": ""
-    },
-    "b_bsc": {
-      "difficult": "2.30",
-      "videoId": ""
-    },
-    "b_adv": {
-      "difficult": "3.90",
-      "videoId": ""
-    },
-    "b_ext": {
-      "difficult": "6.30",
-      "videoId": ""
-    },
-    "b_mas": {
-      "difficult": "7.70",
-      "videoId": ""
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
     }
   }
 ]
