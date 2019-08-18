@@ -40,8 +40,12 @@
     <v-footer
       :fixed="fixed"
       app
+      width="100%"
+      class="text-center"
     >
-      <span>&copy; 2019</span>
+    <v-spacer></v-spacer>
+      &copy; 2019 @jeidiidx<v-btn icon class="ml-2" color="blue lighten-2" href="https://twitter.com/jeidiidx" target="_blank"><v-icon>fa-twitter</v-icon></v-btn>
+    <v-spacer></v-spacer>
     </v-footer>
   </v-app>
 </template>
@@ -63,7 +67,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Vuetify.js'
+      title: 'GITADORA Lab.'
     }
   }
 }

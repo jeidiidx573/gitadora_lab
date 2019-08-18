@@ -43,13 +43,11 @@ export default {
       if (data != null) {
         this.videoId = data
         this.playVideo()
-        this.$store.commit('modalTrigger', true)
       }
     },
     close () {
       this.videoId = null
       this.stopVideo()
-      this.$store.commit('modalTrigger', false)
     },
     playVideo () {
       this.player.playVideo()
