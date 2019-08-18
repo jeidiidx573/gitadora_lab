@@ -1,0 +1,5078 @@
+[
+  {
+    "title": "My HERO",
+    "artist": "04 Limited Sazabys",
+    "bpm": "217",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.00",
+      "videoId": "rMnyUrhkOWU"
+    },
+    "d_mas": {
+      "difficult": "8.75",
+      "videoId": "rMnyUrhkOWU"
+    },
+    "g_bsc": {
+      "difficult": "1.40",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.80",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "6.95",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "1.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.05",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "U.N.オーエンは彼女なのか？",
+    "artist": "岸田教団&THE明星ロケッツ",
+    "bpm": "210",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.20",
+      "videoId": "m1NrjSEHOxg"
+    },
+    "d_mas": {
+      "difficult": "7.40",
+      "videoId": "m1NrjSEHOxg"
+    },
+    "g_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.85",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.10",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.20",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "言って。",
+    "artist": "ヨルシカ",
+    "bpm": "180",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.95",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.45",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "4.70",
+      "videoId": "iRUZ-JI7jlE"
+    },
+    "d_mas": {
+      "difficult": "6.20",
+      "videoId": "iRUZ-JI7jlE"
+    },
+    "g_bsc": {
+      "difficult": "1.90",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "1.60",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "シルエット",
+    "artist": "KANA-BOON",
+    "bpm": "183",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.55",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.15",
+      "videoId": ""
+    },
+    "d_mas": {
+      "difficult": "6.65",
+      "videoId": ""
+    },
+    "g_bsc": {
+      "difficult": "1.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.15",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "1.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "千本桜",
+    "artist": "(黒うさP)",
+    "bpm": "154",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.90",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.70",
+      "videoId": "A956ZYRhEZc"
+    },
+    "d_mas": {
+      "difficult": "6.90",
+      "videoId": "A956ZYRhEZc"
+    },
+    "g_bsc": {
+      "difficult": "1.60",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.15",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "××警告",
+    "artist": "Rani",
+    "bpm": "188",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.55",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.20",
+      "videoId": "OnpXXCMUlnU"
+    },
+    "d_mas": {
+      "difficult": "7.40",
+      "videoId": "OnpXXCMUlnU"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.15",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.60",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.05",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "されど奇術師は賽を振る",
+    "artist": "嘘とカメレオン",
+    "bpm": "210",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.80",
+      "videoId": "VrKg48SQHPY"
+    },
+    "d_mas": {
+      "difficult": "7.00",
+      "videoId": "VrKg48SQHPY"
+    },
+    "g_bsc": {
+      "difficult": "1.85",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.75",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.80",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.25",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "天体観測",
+    "artist": "(BUMP OF CHICKEN)",
+    "bpm": "165",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": "87CbScIj93w"
+    },
+    "d_ext": {
+      "difficult": "5.30",
+      "videoId": "87CbScIj93w"
+    },
+    "d_mas": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "g_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "1.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.85",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.85",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "-",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Clowing folly",
+    "artist": "KanadeYUK",
+    "bpm": "190",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.10",
+      "videoId": "N959_S19wJs"
+    },
+    "d_mas": {
+      "difficult": "7.45",
+      "videoId": "N959_S19wJs"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.90",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.25",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "DANCE of the VAMPIRE",
+    "artist": "mitsuhiro",
+    "bpm": "220",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.80",
+      "videoId": "b7VCekF4aPg"
+    },
+    "d_mas": {
+      "difficult": "9.10",
+      "videoId": "b7VCekF4aPg"
+    },
+    "g_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.25",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.00",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.05",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.45",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "FIRE 2",
+    "artist": "Mutsuhiko Izumi",
+    "bpm": "165-172",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.55",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.40",
+      "videoId": "K3iMONjXAEI"
+    },
+    "d_mas": {
+      "difficult": "7.90",
+      "videoId": "K3iMONjXAEI"
+    },
+    "g_bsc": {
+      "difficult": "2.25",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.05",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.95",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.15",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.15",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "HANABI",
+    "artist": "colors",
+    "bpm": "212",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.10",
+      "videoId": "odQtkUuxLMA"
+    },
+    "d_mas": {
+      "difficult": "8.50",
+      "videoId": "odQtkUuxLMA"
+    },
+    "g_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.85",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.25",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.55",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "LAS-BOS",
+    "artist": "Rookie.F feat.ダイナ四&BEMANI Sound Team \"あさき\"",
+    "bpm": "210",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.55",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.00",
+      "videoId": "vnGpnFcYSmQ"
+    },
+    "d_mas": {
+      "difficult": "9.65",
+      "videoId": "vnGpnFcYSmQ"
+    },
+    "g_bsc": {
+      "difficult": "2.75",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.45",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.45",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "might be dead",
+    "artist": "migimimi sleep tight",
+    "bpm": "195",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.80",
+      "videoId": "xfHaXhA8Xto"
+    },
+    "d_mas": {
+      "difficult": "6.90",
+      "videoId": "xfHaXhA8Xto"
+    },
+    "g_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Now or Never Mind!!!!!",
+    "artist": "穐田和恵 feat.MiA",
+    "bpm": "186",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.65",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.45",
+      "videoId": "4-OiyYC2YXw"
+    },
+    "d_mas": {
+      "difficult": "7.70",
+      "videoId": "4-OiyYC2YXw"
+    },
+    "g_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.65",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.20",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Road to Dream",
+    "artist": "佐藤 優樹",
+    "bpm": "138",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.90",
+      "videoId": "DJfQPSLuPCY"
+    },
+    "d_mas": {
+      "difficult": "8.40",
+      "videoId": "DJfQPSLuPCY"
+    },
+    "g_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.05",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Ugly Duckling",
+    "artist": "BEMANI Sound Team \"肥塚良彦\"",
+    "bpm": "178",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.75",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.10",
+      "videoId": "thCzwZCS-gI"
+    },
+    "d_mas": {
+      "difficult": "7.50",
+      "videoId": "thCzwZCS-gI"
+    },
+    "g_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.00",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.15",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "恋のメロディー",
+    "artist": "SARAH",
+    "bpm": "200",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.75",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.15",
+      "videoId": "3o1krNYIWoM"
+    },
+    "d_mas": {
+      "difficult": "7.60",
+      "videoId": "3o1krNYIWoM"
+    },
+    "g_bsc": {
+      "difficult": "2.25",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.75",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "4.95",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "6.60",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "1.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.25",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.85",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.00",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "さんぼんがわ",
+    "artist": "good-cool ft. すわひでお",
+    "bpm": "146",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.65",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.20",
+      "videoId": "s2ARoR3R9N0"
+    },
+    "d_mas": {
+      "difficult": "9.20",
+      "videoId": "s2ARoR3R9N0"
+    },
+    "g_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.55",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.95",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.25",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.15",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.05",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "透明ジャスティス",
+    "artist": "豚乙女",
+    "bpm": "158",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.55",
+      "videoId": "_POxqc2vTjY"
+    },
+    "d_mas": {
+      "difficult": "8.20",
+      "videoId": "_POxqc2vTjY"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.85",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.55",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "万物快楽理論",
+    "artist": "あさき",
+    "bpm": "110-135",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.45",
+      "videoId": "nEPU-jZLMtQ"
+    },
+    "d_mas": {
+      "difficult": "7.85",
+      "videoId": "nEPU-jZLMtQ"
+    },
+    "g_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.35",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.65",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.15",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "ひと夏の戯れYeah!!Samba",
+    "artist": "BEMANI Sound Team \"哲学\"",
+    "bpm": "140",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.10",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.50",
+      "videoId": "oJhg1kt8BbM"
+    },
+    "d_mas": {
+      "difficult": "9.50",
+      "videoId": "oJhg1kt8BbM"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.75",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.55",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.05",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.85",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.45",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.30",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "霖が哭く",
+    "artist": "Power Of Nature",
+    "bpm": "154",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.00",
+      "videoId": "Qnvfmq6Hgek"
+    },
+    "d_mas": {
+      "difficult": "9.25",
+      "videoId": "Qnvfmq6Hgek"
+    },
+    "g_bsc": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.30",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.50",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "シンクロフィッシュ",
+    "artist": "Blanc Bunny Bandit",
+    "bpm": "182",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.00",
+      "videoId": "z7fxdEYorS8"
+    },
+    "d_mas": {
+      "difficult": "7.90",
+      "videoId": "z7fxdEYorS8"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.30",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "箱庭のエチュード",
+    "artist": "Blanc Bunny Bandit",
+    "bpm": "138",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.90",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.30",
+      "videoId": "LDqgrGS5zKQ"
+    },
+    "d_mas": {
+      "difficult": "7.30",
+      "videoId": "LDqgrGS5zKQ"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.95",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.95",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.00",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "たたえよ！絶対覇権アリーシャ帝国",
+    "artist": "Blanc Bunny Bandit",
+    "bpm": "145",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.90",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.30",
+      "videoId": "2ML7sXcPRRE"
+    },
+    "d_mas": {
+      "difficult": "8.10",
+      "videoId": "2ML7sXcPRRE"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.95",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.90",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.75",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.05",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.75",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "おにぎりディスコ",
+    "artist": "Blanc Bunny Bandit",
+    "bpm": "118",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.60",
+      "videoId": "d_PtytyPk8Y"
+    },
+    "d_mas": {
+      "difficult": "7.70",
+      "videoId": "d_PtytyPk8Y"
+    },
+    "g_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.05",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.90",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.00",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "50th Memorial Songs -Beginning Story-",
+    "artist": "BEMANI Sound Team",
+    "bpm": "135",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.00",
+      "videoId": "xq2q40IPdJE"
+    },
+    "d_mas": {
+      "difficult": "8.30",
+      "videoId": "xq2q40IPdJE"
+    },
+    "g_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.25",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.85",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
+    "artist": "BEMANI Sound Team",
+    "bpm": "160",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.90",
+      "videoId": "zsJjfASzLOA"
+    },
+    "d_mas": {
+      "difficult": "7.80",
+      "videoId": "zsJjfASzLOA"
+    },
+    "g_bsc": {
+      "difficult": "2.05",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.55",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.80",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.20",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "50th Memorial Songs -Flagship medley-",
+    "artist": "BEMANI Sound Team",
+    "bpm": "135-175",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.00",
+      "videoId": "w4GfSaLcVO0"
+    },
+    "d_mas": {
+      "difficult": "8.40",
+      "videoId": "w4GfSaLcVO0"
+    },
+    "g_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.30",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "50th Memorial Songs -The BEMANI History-",
+    "artist": "BEMANI Sound Team",
+    "bpm": "136",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.10",
+      "videoId": "p6Ag33cMV6M"
+    },
+    "d_mas": {
+      "difficult": "9.40",
+      "videoId": "p6Ag33cMV6M"
+    },
+    "g_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.20",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.00",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Cinnamon",
+    "artist": "BEMANI Sound Team \"SYUNN\"",
+    "bpm": "125",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.55",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.70",
+      "videoId": ""
+    },
+    "d_mas": {
+      "difficult": "9.65",
+      "videoId": ""
+    },
+    "g_bsc": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.05",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.55",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "8.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "9.35",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "鬼華-修羅の舞-",
+    "artist": "SOUND HOLIC Vs. BEMANI Sound Team \"T.Kakuta\" feat. Nana Takahashi",
+    "bpm": "211",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.45",
+      "videoId": "wzQmVbCzsWw"
+    },
+    "d_mas": {
+      "difficult": "9.55",
+      "videoId": "wzQmVbCzsWw"
+    },
+    "g_bsc": {
+      "difficult": "4.15",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.55",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "4.35",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.55",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "キヤロラ衛星の軌跡",
+    "artist": "工藤吉三(ベイシスケイプ)",
+    "bpm": "150",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.15",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.60",
+      "videoId": "E8elchSH5AM"
+    },
+    "d_mas": {
+      "difficult": "9.25",
+      "videoId": "E8elchSH5AM"
+    },
+    "g_bsc": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.85",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.00",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "グリーンリーフ症候群",
+    "artist": "red glasses feat.岡 聡志",
+    "bpm": "134",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.60",
+      "videoId": "EgQYN5g8Zg0"
+    },
+    "d_mas": {
+      "difficult": "9.35",
+      "videoId": "EgQYN5g8Zg0"
+    },
+    "g_bsc": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.70",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "POLAR NIGHT",
+    "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
+    "bpm": "210",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.20",
+      "videoId": "AiyIVTyruIk"
+    },
+    "d_mas": {
+      "difficult": "8.50",
+      "videoId": "AiyIVTyruIk"
+    },
+    "g_bsc": {
+      "difficult": "3.95",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.45",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.95",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "かつて描いた夢は、今も色褪せぬまま。",
+    "artist": "BEMANI Sound Team \"El Dorado\"",
+    "bpm": "150",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.60",
+      "videoId": "WhjZuQw-tp8"
+    },
+    "d_mas": {
+      "difficult": "9.30",
+      "videoId": "WhjZuQw-tp8"
+    },
+    "g_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.50",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.35",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.15",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.25",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.60",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Let's Dance",
+    "artist": "colored strings",
+    "bpm": "154",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.00",
+      "videoId": "Z7VkBmQ_K6U"
+    },
+    "d_mas": {
+      "difficult": "9.50",
+      "videoId": "Z7VkBmQ_K6U"
+    },
+    "g_bsc": {
+      "difficult": "4.05",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.35",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.35",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.95",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.45",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "多極性ニューロンの崩壊による人間の末路",
+    "artist": "BEMANI Sound Team \"HuΣeR × Yvya\"",
+    "bpm": "165",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.30",
+      "videoId": "sRN07S-EgGw"
+    },
+    "d_mas": {
+      "difficult": "9.45",
+      "videoId": "sRN07S-EgGw"
+    },
+    "g_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.25",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.05",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.77",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.95",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.65",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Pluvia",
+    "artist": "BEMANI Sound Team \"Akhuta Works\"",
+    "bpm": "140",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.50",
+      "videoId": "8DO_fY3ZOao"
+    },
+    "d_mas": {
+      "difficult": "9.85",
+      "videoId": "8DO_fY3ZOao"
+    },
+    "g_bsc": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.55",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.65",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "8.35",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "9.35",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "眠りの国のステラ",
+    "artist": "BEMANI Sound Team \"DJ TOTTO\"",
+    "bpm": "193",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.20",
+      "videoId": "h9oBUYDC7Vo"
+    },
+    "d_mas": {
+      "difficult": "9.40",
+      "videoId": "h9oBUYDC7Vo"
+    },
+    "g_bsc": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.38",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.95",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.95",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Gray clouds",
+    "artist": "Trick Trap",
+    "bpm": "150",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.60",
+      "videoId": "bAb3vAnh7S8"
+    },
+    "d_mas": {
+      "difficult": "8.90",
+      "videoId": "bAb3vAnh7S8"
+    },
+    "g_bsc": {
+      "difficult": "3.75",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.55",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.45",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.25",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "9.65",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Nebulas",
+    "artist": "BEMANI Sound Team \"Yvya\"",
+    "bpm": "140",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.90",
+      "videoId": "DJjS5i5_vBQ"
+    },
+    "d_mas": {
+      "difficult": "9.10",
+      "videoId": "DJjS5i5_vBQ"
+    },
+    "g_bsc": {
+      "difficult": "4.75",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.40",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.65",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "悪魔のハニープリン",
+    "artist": "ひまわり*パンチ",
+    "bpm": "210",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.00",
+      "videoId": "479bjkzSDjY"
+    },
+    "d_mas": {
+      "difficult": "9.00",
+      "videoId": "479bjkzSDjY"
+    },
+    "g_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "DEADMAN'S BED",
+    "artist": "Rotten Blotch",
+    "bpm": "104",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "d_mas": {
+      "difficult": "6.15",
+      "videoId": ""
+    },
+    "g_bsc": {
+      "difficult": "1.45",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "6.35",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.15",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.45",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "5.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "ひまわり*EXCHAIN",
+    "artist": "ひまわり*パンチ",
+    "bpm": "174",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.10",
+      "videoId": "Qve_SZoSGxQ"
+    },
+    "d_mas": {
+      "difficult": "7.00",
+      "videoId": "Qve_SZoSGxQ"
+    },
+    "g_bsc": {
+      "difficult": "2.95",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.05",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.35",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.25",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "1816 WIND",
+    "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
+    "bpm": "135",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.00",
+      "videoId": "xfpZJ14yZj8"
+    },
+    "d_mas": {
+      "difficult": "9.40",
+      "videoId": "xfpZJ14yZj8"
+    },
+    "g_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.45",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.95",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Rebirth",
+    "artist": "MAKI",
+    "bpm": "132",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.60",
+      "videoId": "ZAkz45kUC5I"
+    },
+    "d_mas": {
+      "difficult": "7.00",
+      "videoId": "ZAkz45kUC5I"
+    },
+    "g_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "5.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "RISE",
+    "artist": "泉 陸奥彦",
+    "bpm": "200",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.00",
+      "videoId": "y4p7V0dOgsk"
+    },
+    "d_mas": {
+      "difficult": "7.30",
+      "videoId": "y4p7V0dOgsk"
+    },
+    "g_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.10",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.30",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.80",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.30",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Inside my heart",
+    "artist": "MEG feat. Keita (from FAR EAST DIZAIN)",
+    "bpm": "133",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.30",
+      "videoId": "IPhgRl40z-k"
+    },
+    "d_mas": {
+      "difficult": "7.70",
+      "videoId": "IPhgRl40z-k"
+    },
+    "g_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.60",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Country day",
+    "artist": "Anna Vieste",
+    "bpm": "136",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.60",
+      "videoId": "wuMah63-D2Y"
+    },
+    "d_mas": {
+      "difficult": "6.80",
+      "videoId": "wuMah63-D2Y"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Break Down",
+    "artist": "Maro",
+    "bpm": "185",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.00",
+      "videoId": "P4WpyQ9UHTU"
+    },
+    "d_mas": {
+      "difficult": "8.20",
+      "videoId": "P4WpyQ9UHTU"
+    },
+    "g_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.00",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "SMILE FOR YOU",
+    "artist": "古川もとあき",
+    "bpm": "190",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "d_mas": {
+      "difficult": "8.00",
+      "videoId": ""
+    },
+    "g_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.30",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.20",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "The Metal Warrior",
+    "artist": "BEMANI Sound Team \"Holy Saint Metal Man\"",
+    "bpm": "214",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.40",
+      "videoId": "XZJqN50KMJY"
+    },
+    "d_mas": {
+      "difficult": "9.50",
+      "videoId": "XZJqN50KMJY"
+    },
+    "g_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.30",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "天空ノ桜閣",
+    "artist": "龍",
+    "bpm": "155",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.20",
+      "videoId": "23rH-qrP0gw"
+    },
+    "d_mas": {
+      "difficult": "7.60",
+      "videoId": "23rH-qrP0gw"
+    },
+    "g_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.20",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Catch Our Fire!",
+    "artist": "中島由貴",
+    "bpm": "190",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.30",
+      "videoId": "2Hq6heGQguw"
+    },
+    "d_mas": {
+      "difficult": "8.90",
+      "videoId": "2Hq6heGQguw"
+    },
+    "g_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.70",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.65",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.30",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "狂髪天を撫でて綴れ雲の綻び 五体北風に散りて痕も無し",
+    "artist": "BEMANI Sound Team \"Akhuta Works\"",
+    "bpm": "200",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.90",
+      "videoId": "rwB6ReB0PDY"
+    },
+    "d_mas": {
+      "difficult": "9.00",
+      "videoId": "rwB6ReB0PDY"
+    },
+    "g_bsc": {
+      "difficult": "2.10",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.05",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.20",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.55",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "一夜のキセキ (Long Version)",
+    "artist": "ひまわり*パンチ",
+    "bpm": "132",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.50",
+      "videoId": "EsOHDNXVYHc"
+    },
+    "d_mas": {
+      "difficult": "8.00",
+      "videoId": "EsOHDNXVYHc"
+    },
+    "g_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.65",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Passion",
+    "artist": "KUMIKO",
+    "bpm": "117",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.90",
+      "videoId": "HpmmExDXaL4"
+    },
+    "d_mas": {
+      "difficult": "8.50",
+      "videoId": "HpmmExDXaL4"
+    },
+    "g_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.80",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Killing my Heart",
+    "artist": "Nine Universe",
+    "bpm": "162",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.50",
+      "videoId": "rD8jsQU4M0"
+    },
+    "d_mas": {
+      "difficult": "7.70",
+      "videoId": "rD8jsQU4M0"
+    },
+    "g_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.30",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Knights Assault",
+    "artist": "零 -zero-",
+    "bpm": "276",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.50",
+      "videoId": "GhpC2XHeE4U"
+    },
+    "d_mas": {
+      "difficult": "8.70",
+      "videoId": "GhpC2XHeE4U"
+    },
+    "g_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.35",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.30",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.40",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Fractus",
+    "artist": "BEMANI Sound Team \"Yvya\"",
+    "bpm": "182",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.80",
+      "videoId": "xa0nMoc1l20"
+    },
+    "d_mas": {
+      "difficult": "7.80",
+      "videoId": "xa0nMoc1l20"
+    },
+    "g_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.30",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.05",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.45",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.15",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "リドル",
+    "artist": "ユグドラシルワークスShun with 砂唏",
+    "bpm": "180",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.40",
+      "videoId": "7Wf52anZWKA"
+    },
+    "d_mas": {
+      "difficult": "8.30",
+      "videoId": "7Wf52anZWKA"
+    },
+    "g_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.05",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.05",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.85",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.80",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Never End",
+    "artist": "Rookie.F feat. Sean (from PHOENIX ASH)",
+    "bpm": "195",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.00",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.50",
+      "videoId": "CL11kE0CrWw"
+    },
+    "d_mas": {
+      "difficult": "9.00",
+      "videoId": "CL11kE0CrWw"
+    },
+    "g_bsc": {
+      "difficult": "2.45",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.65",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.30",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.10",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Treachery",
+    "artist": "BEMANI Sound Team \"劇団レコード\"feat.浅葉リオ",
+    "bpm": "134",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.40",
+      "videoId": "XxOY-PYDXZw"
+    },
+    "d_mas": {
+      "difficult": "8.00",
+      "videoId": "XxOY-PYDXZw"
+    },
+    "g_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.75",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.25",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.55",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "堕羅朽",
+    "artist": "Des-ROW・組",
+    "bpm": "200",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.90",
+      "videoId": "G-zt7ikUchE"
+    },
+    "d_mas": {
+      "difficult": "7.70",
+      "videoId": "G-zt7ikUchE"
+    },
+    "g_bsc": {
+      "difficult": "1.90",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.85",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.20",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Conquistador",
+    "artist": "Thomas Howard Lichtenstein",
+    "bpm": "150",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.00",
+      "videoId": "F_UzrQehIwA"
+    },
+    "d_mas": {
+      "difficult": "9.40",
+      "videoId": "F_UzrQehIwA"
+    },
+    "g_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.15",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.40",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "BREAK OUT",
+    "artist": "Thomas Howard Lichtenstein",
+    "bpm": "110",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.80",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.00",
+      "videoId": "c8Zk6tnZNKU"
+    },
+    "d_mas": {
+      "difficult": "7.30",
+      "videoId": "c8Zk6tnZNKU"
+    },
+    "g_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "DEPEND ON ME (Long Version)",
+    "artist": "Thomas Howard Lichtenstein with AMSD BAND",
+    "bpm": "129",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "4.40",
+      "videoId": "O01YcTmwqFM"
+    },
+    "d_mas": {
+      "difficult": "6.50",
+      "videoId": "O01YcTmwqFM"
+    },
+    "g_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.60",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.95",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "-",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "ゆえに愛ソーバッド",
+    "artist": "ピンクカプセル",
+    "bpm": "186",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.40",
+      "videoId": "VUAb9jun-wg"
+    },
+    "d_mas": {
+      "difficult": "7.60",
+      "videoId": "VUAb9jun-wg"
+    },
+    "g_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.60",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.65",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.95",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.60",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "蛹　再",
+    "artist": "あさき",
+    "bpm": "192",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.70",
+      "videoId": "4h0-fzXw4T0"
+    },
+    "d_mas": {
+      "difficult": "9.20",
+      "videoId": "4h0-fzXw4T0"
+    },
+    "g_bsc": {
+      "difficult": "3.80",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.50",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.70",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.20",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "DOKI☆DOKI",
+    "artist": "TAEKO",
+    "bpm": "128",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "4.30",
+      "videoId": "g81LWRlgHNU"
+    },
+    "d_mas": {
+      "difficult": "7.20",
+      "videoId": "g81LWRlgHNU"
+    },
+    "g_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.15",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.00",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.25",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Spellbound",
+    "artist": "Anna Vieste",
+    "bpm": "140",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.60",
+      "videoId": "41HwdfTXl6Q"
+    },
+    "d_mas": {
+      "difficult": "7.50",
+      "videoId": "41HwdfTXl6Q"
+    },
+    "g_bsc": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.70",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.75",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.00",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.65",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "最後のつよがり",
+    "artist": "vivi",
+    "bpm": "82",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "4.80",
+      "videoId": "QuZu4N3ntbE"
+    },
+    "d_mas": {
+      "difficult": "6.70",
+      "videoId": "QuZu4N3ntbE"
+    },
+    "g_bsc": {
+      "difficult": "2.60",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.90",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Have a good time !",
+    "artist": "vivi",
+    "bpm": "136",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.00",
+      "videoId": "OSVgHPjf2Ew"
+    },
+    "d_mas": {
+      "difficult": "7.00",
+      "videoId": "OSVgHPjf2Ew"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.60",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.30",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "FOR THE FINAL",
+    "artist": "あさき",
+    "bpm": "136",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.40",
+      "videoId": "qMaew8c04Mg"
+    },
+    "d_mas": {
+      "difficult": "6.30",
+      "videoId": "qMaew8c04Mg"
+    },
+    "g_bsc": {
+      "difficult": "3.05",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.35",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.25",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Sky",
+    "artist": "Mutsuhiko Izumi",
+    "bpm": "160",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.40",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.00",
+      "videoId": "tgz5-JH624g"
+    },
+    "d_mas": {
+      "difficult": "7.80",
+      "videoId": "tgz5-JH624g"
+    },
+    "g_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.95",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.60",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.75",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.40",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "MIDNIGHT SUN (Long Version)",
+    "artist": "Mutsuhiko Izumi",
+    "bpm": "215",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.10",
+      "videoId": "1gdIMh0eS9E"
+    },
+    "d_mas": {
+      "difficult": "7.80",
+      "videoId": "1gdIMh0eS9E"
+    },
+    "g_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.55",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.90",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "-",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "-",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Dragon Blade -The Arrange-",
+    "artist": "BEMANI Sound Team \"あさき\" & RENO",
+    "bpm": "130",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.70",
+      "videoId": "D5srqI75WPQ"
+    },
+    "d_mas": {
+      "difficult": "8.60",
+      "videoId": "D5srqI75WPQ"
+    },
+    "g_bsc": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.15",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.30",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "ツミナガラ... と彼女は謂ふ -再-",
+    "artist": "あさき",
+    "bpm": "153",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.80",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.00",
+      "videoId": "x2SGXuxvD1Q"
+    },
+    "d_mas": {
+      "difficult": "8.50",
+      "videoId": "x2SGXuxvD1Q"
+    },
+    "g_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.40",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.50",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "pain",
+    "artist": "BEMANI Sound Team \"TOMOSUKE\" feat. Jazzin' park & frances maya",
+    "bpm": "135",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.50",
+      "videoId": "2QYULAzwdgc"
+    },
+    "d_mas": {
+      "difficult": "8.50",
+      "videoId": "2QYULAzwdgc"
+    },
+    "g_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.75",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "1716 SAHARA MOON",
+    "artist": "BEMANI Sound Team \"泉 陸奥彦\"",
+    "bpm": "110",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.20",
+      "videoId": "EfU2OGVxW54"
+    },
+    "d_mas": {
+      "difficult": "9.50",
+      "videoId": "EfU2OGVxW54"
+    },
+    "g_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.60",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.10",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "The past for the future",
+    "artist": "ひまわり*パンチ",
+    "bpm": "177",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.70",
+      "videoId": "FvGVNLq28-A"
+    },
+    "d_mas": {
+      "difficult": "7.00",
+      "videoId": "FvGVNLq28-A"
+    },
+    "g_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "幸せの代償",
+    "artist": "BEMANI Sound Team \"あさき\"",
+    "bpm": "134",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.40",
+      "videoId": "CstYT3S02DA"
+    },
+    "d_mas": {
+      "difficult": "9.25",
+      "videoId": "CstYT3S02DA"
+    },
+    "g_bsc": {
+      "difficult": "3.85",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.75",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "The ULTIMATES -CHRONICLE-",
+    "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
+    "bpm": "125-198",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.90",
+      "videoId": "wyldUnceFk8"
+    },
+    "d_mas": {
+      "difficult": "9.10",
+      "videoId": "wyldUnceFk8"
+    },
+    "g_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.80",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.30",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "8.90",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "美丽的夏日风",
+    "artist": "BEMANI Sound Team \"泉 陸奥彦\"",
+    "bpm": "150",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.00",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.20",
+      "videoId": "v-HEiOz8-7I"
+    },
+    "d_mas": {
+      "difficult": "9.70",
+      "videoId": "v-HEiOz8-7I"
+    },
+    "g_bsc": {
+      "difficult": "4.00",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "6.10",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "8.30",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.40",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "5.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "9.00",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "neu",
+    "artist": "少年ラジオ",
+    "bpm": "199",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.80",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "8.30",
+      "videoId": ""
+    },
+    "d_mas": {
+      "difficult": "9.40",
+      "videoId": ""
+    },
+    "g_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.65",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "9.10",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "1.70",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.25",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "SESSION With You!",
+    "artist": "PartyCrew (from GD&pm)",
+    "bpm": "180",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.00",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "3.60",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.20",
+      "videoId": "o5D3ku7Tg_Q"
+    },
+    "d_mas": {
+      "difficult": "8.30",
+      "videoId": "o5D3ku7Tg_Q"
+    },
+    "g_bsc": {
+      "difficult": "1.65",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.00",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.30",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.90",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.20",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.80",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "STATE OF MIND",
+    "artist": "MEG feat.KIHIRO (from LOKA)",
+    "bpm": "139",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.20",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "6.70",
+      "videoId": "8LjzuY6Ne4I"
+    },
+    "d_mas": {
+      "difficult": "8.40",
+      "videoId": "8LjzuY6Ne4I"
+    },
+    "g_bsc": {
+      "difficult": "1.40",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "3.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "6.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "1.60",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.05",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "6.60",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "Hidden Emotions",
+    "artist": "RENO",
+    "bpm": "220",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.30",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.20",
+      "videoId": "XK1BNgq5rXs"
+    },
+    "d_mas": {
+      "difficult": "9.20",
+      "videoId": "XK1BNgq5rXs"
+    },
+    "g_bsc": {
+      "difficult": "3.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.40",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.20",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.50",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "7.25",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.80",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "TAKE ME HiGHER",
+    "artist": "CHISA feat.MiA",
+    "bpm": "146",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "1.60",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.30",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.80",
+      "videoId": "l0vUbaRzBsY"
+    },
+    "d_mas": {
+      "difficult": "7.20",
+      "videoId": "l0vUbaRzBsY"
+    },
+    "g_bsc": {
+      "difficult": "3.10",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.65",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.85",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.80",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.60",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.70",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.40",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "東京ライドオンタイム",
+    "artist": "八坂沙織 feat.MiA &山吹りょう",
+    "bpm": "162",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.90",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.90",
+      "videoId": "gQaf4Zn-APA"
+    },
+    "d_mas": {
+      "difficult": "7.60",
+      "videoId": "gQaf4Zn-APA"
+    },
+    "g_bsc": {
+      "difficult": "3.45",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.40",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.90",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.50",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.50",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "全弦開放(イーマイナーイレブン)",
+    "artist": "池田高田",
+    "bpm": "190",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "2.40",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "4.70",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "5.80",
+      "videoId": "522E2TmNz-E"
+    },
+    "d_mas": {
+      "difficult": "8.00",
+      "videoId": "522E2TmNz-E"
+    },
+    "g_bsc": {
+      "difficult": "2.70",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "4.80",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "6.60",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "7.55",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.20",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "4.55",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "5.80",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.80",
+      "videoId": ""
+    }
+  },
+  {
+    "title": "紅花",
+    "artist": "BEMANI Sound Team \"Akhuta Works\"",
+    "bpm": "220",
+    "version": "EXCHAIN",
+    "d_bsc": {
+      "difficult": "3.20",
+      "videoId": ""
+    },
+    "d_adv": {
+      "difficult": "5.50",
+      "videoId": ""
+    },
+    "d_ext": {
+      "difficult": "7.60",
+      "videoId": "H1rxr92luYs"
+    },
+    "d_mas": {
+      "difficult": "8.40",
+      "videoId": "H1rxr92luYs"
+    },
+    "g_bsc": {
+      "difficult": "2.50",
+      "videoId": ""
+    },
+    "g_adv": {
+      "difficult": "5.00",
+      "videoId": ""
+    },
+    "g_ext": {
+      "difficult": "7.20",
+      "videoId": ""
+    },
+    "g_mas": {
+      "difficult": "8.80",
+      "videoId": ""
+    },
+    "b_bsc": {
+      "difficult": "2.30",
+      "videoId": ""
+    },
+    "b_adv": {
+      "difficult": "3.90",
+      "videoId": ""
+    },
+    "b_ext": {
+      "difficult": "6.30",
+      "videoId": ""
+    },
+    "b_mas": {
+      "difficult": "7.70",
+      "videoId": ""
+    }
+  }
+]
