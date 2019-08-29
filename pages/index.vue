@@ -13,7 +13,7 @@
         <logo />
       </div>
     </v-flex>
-  <Musiclist />
+    <Musiclist />
   </v-layout>
 </template>
 
