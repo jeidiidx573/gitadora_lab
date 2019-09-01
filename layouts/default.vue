@@ -7,6 +7,14 @@
     >
       <v-app-bar-nav-icon/>
       <v-toolbar-title v-text="title" />
+      <v-spacer></v-spacer>
+      <v-btn
+        icon
+        @click="showMusicSearch()"
+      >
+        <v-icon>mdi-magnify</v-icon>
+      </v-btn>
+      <Musicsearch />
     </v-app-bar>
     <v-content>
       <v-container>
@@ -29,10 +37,14 @@
 <script>
 import Vue from 'vue'
 import Vuetify from 'vuetify'
+import Musicsearch from '~/components/layouts/Musicsearch'
 import 'vuetify/dist/vuetify.min.css'
 Vue.use(Vuetify)
 
 export default {
+  components: {
+    Musicsearch
+  },
   data () {
     return {
       clipped: false,
@@ -49,6 +61,11 @@ export default {
       right: true,
       rightDrawer: false,
       title: 'GITADORA Lab.'
+    }
+  },
+  methods: {
+    showMusicSearch () {
+      this.$store.dispatch('showMusicSearch')
     }
   }
 }
