@@ -5,7 +5,7 @@
         xs12
         sm6
         md4
-        v-for="(music, index) in music"
+        v-for="(music, index) in $store.state.music"
         :key="index"
       >
         <v-card
@@ -65,7 +65,6 @@
 <script>
 import Vue from 'vue'
 import VueYoutube from 'vue-youtube'
-import Music from '~/assets/musicdata.json'
 
 Vue.use(VueYoutube)
 
@@ -73,9 +72,13 @@ export default {
   data () {
     return {
       dialog: false,
-      music: Music,
       videoId: '',
-      difficultColor: { 'bsc': 'blue lighten-3', 'adv': 'lime lighten-1', 'ext': 'red lighten-1', 'mas': 'purple lighten-1' }
+      difficultColor: {
+        'bsc': 'blue lighten-3',
+        'adv': 'lime lighten-1',
+        'ext': 'red lighten-1',
+        'mas': 'purple lighten-1'
+      }
     }
   },
   computed: {
@@ -102,18 +105,6 @@ export default {
     },
     getThumbnailPath (videoId) {
       return 'https://img.youtube.com/vi/' + videoId + '/mqdefault.jpg'
-    },
-    Search () {
-      const title = 'されど'
-      const search = new RegExp(title)
-      const newdata = []
-      for (const index in this.music) {
-        if (this.music[index].title.match(search)) {
-          newdata.push(this.music[index])
-        }
-      }
-      console.log(newdata)
-      this.music = newdata
     }
   }
 }
