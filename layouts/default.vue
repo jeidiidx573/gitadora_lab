@@ -14,7 +14,12 @@
       >
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
-      <Musicsearch />
+      <v-dialog
+        v-model="musicSearchisActive"
+        width="960"
+      >
+        <Musicsearch />
+      </v-dialog>
     </v-app-bar>
     <v-content>
       <v-container>
@@ -60,12 +65,13 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
+      musicSearchisActive: false,
       title: 'GITADORA Lab.'
     }
   },
   methods: {
     showMusicSearch () {
-      this.$store.dispatch('showMusicSearch')
+      this.musicSearchisActive = !this.musicSearchisActive
     }
   }
 }
