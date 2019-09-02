@@ -29,7 +29,6 @@
         <div class="flex-grow-1"></div>
         <v-btn
           color="blue darken-1"
-          text
           @click="submit"
         >
           Search
@@ -91,10 +90,7 @@ export default {
     async reset () {
       try {
         this.$refs.form.reset()
-        await this.$store.dispatch('Search', {
-          title: this.title
-          // password: this.password
-        })
+        await this.$store.dispatch('Reset')
         this.$router.push('/')
       } catch (e) {
         this.formError = e.message

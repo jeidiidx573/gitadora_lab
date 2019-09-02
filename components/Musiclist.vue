@@ -40,12 +40,6 @@
         </v-card>
       </v-flex>
     </v-layout>
-    <v-btn
-      icon
-      @click="Search()"
-    >
-      <v-icon>mdi-magnify</v-icon>
-    </v-btn>
     <v-dialog
       v-model="dialog"
       width="960"

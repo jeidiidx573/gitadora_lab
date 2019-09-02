@@ -6,8 +6,7 @@ export const state = () => ({
   search: {
     title: '',
     difficultVal: ''
-  },
-  musicSearchisActive: false
+  }
 })
 
 export const mutations = {
@@ -15,15 +14,10 @@ export const mutations = {
     state.console = data
   },
   // 曲検索
-  showMusicSearch (state) {
-    state.musicSearchisActive = !state.musicSearchisActive
-  },
-  // 曲検索
   Search (state, data) {
     // 検索文字列格納
     state.search.title = data.title // 曲名
     state.search.difficultVal = data.difficultVal // 難易度
-    console.log(data.difficultVal)
     // 曲初期化
     state.music = Music
     // 格納用
@@ -46,23 +40,19 @@ export const mutations = {
     }
     state.music = newdata
     state.musicSearchisActive = false
+  },
+  Reset (state) {
+    console.log(Music)
+    state.music = Music
   }
-  // showMusicSearch (state, data) {
-  //   state.musicSearchisActive = !state.musicSearchisActive
-  //   console.log('p')
-  // }
 }
 
 export const actions = {
-  // 検索モーダル
-  showMusicSearch (context) {
-    context.commit('showMusicSearch')
-  },
   // 曲検索
   Search (context, value) {
     context.commit('Search', value)
+  },
+  Reset (context) {
+    context.commit('Reset')
   }
-  // showMusicSearch (context) {
-  //   context.commit('showMusicSearch')
-  // }
 }

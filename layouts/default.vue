@@ -15,8 +15,9 @@
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
       <v-dialog
-        v-model="$store.state.musicSearchisActive"
+        v-model="musicSearchisActive"
         width="960"
+        @click.stop="showMusicSearch()"
       >
         <Musicsearch />
       </v-dialog>
@@ -65,12 +66,13 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
+      musicSearchisActive: false,
       title: 'GITADORA Lab.'
     }
   },
   methods: {
     showMusicSearch () {
-      this.$store.dispatch('showMusicSearch')
+      this.musicSearchisActive = !this.musicSearchisActive
     }
   }
 }
