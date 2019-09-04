@@ -1,0 +1,5492 @@
+[
+  {
+    "title": "7th Floor",
+    "artist": "BEMANI Sound Team \"R & R Circuit\"",
+    "bpm": "196",
+    "version": "GD4",
+    "imgId": "9vVSP8ASWog",
+    "drum": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": "9vVSP8ASWog"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.75",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Aion",
+    "artist": "BEMANI Sound Team \"Anonymous\"",
+    "bpm": "164",
+    "version": "★",
+    "imgId": "BneNdFUhTKg",
+    "drum": {
+      "bsc": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.30",
+        "videoId": "BneNdFUhTKg"
+      },
+      "mas": {
+        "difficult": "9.60",
+        "videoId": "BneNdFUhTKg"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.45",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Be a Hero!",
+    "artist": "中島由貴",
+    "bpm": "190",
+    "version": "GD6",
+    "imgId": "MQu73-d2_Uw",
+    "drum": {
+      "bsc": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.05",
+        "videoId": "MQu73-d2_Uw"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.05",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Beginning",
+    "artist": "BEMANI Sound Team \"TAG\"",
+    "bpm": "200",
+    "version": "GD4",
+    "imgId": "4gyl2o4-9bU",
+    "drum": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.05",
+        "videoId": "4gyl2o4-9bU"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.75",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "BLOOD RED",
+    "artist": "KanadeYUK",
+    "bpm": "180",
+    "version": "XG10",
+    "imgId": "bqRPEVJW7i0",
+    "drum": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.75",
+        "videoId": "bqRPEVJW7i0"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.30",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "busy come, busy go!!",
+    "artist": "Masahiro“Godspeed”Aoki",
+    "bpm": "135",
+    "version": "XG9",
+    "imgId": "MkMjOCVAy1c",
+    "drum": {
+      "bsc": {
+        "difficult": "3.65",
+        "videoId": "EUE9ATPk9g4"
+      },
+      "adv": {
+        "difficult": "5.45",
+        "videoId": "lF0A053gozA"
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": "7RpoEZOMwRw"
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": "MkMjOCVAy1c"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.35",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Cagayake!GIRLS",
+    "artist": "桜高軽音部",
+    "bpm": "170",
+    "version": "XG7",
+    "imgId": "KEQ2mD_jLrU",
+    "drum": {
+      "bsc": {
+        "difficult": "1.40",
+        "videoId": "oKuaNryZh7E"
+      },
+      "adv": {
+        "difficult": "3.75",
+        "videoId": "AuyNmjH2cS0"
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": "hSCM5uT8GZQ"
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": "KEQ2mD_jLrU"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "CALLME",
+    "artist": "Migimimi sleep tight",
+    "bpm": "206",
+    "version": "XG6",
+    "imgId": "6JX4LeA1psc",
+    "drum": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": "xRLhC6UypBQ"
+      },
+      "adv": {
+        "difficult": "5.55",
+        "videoId": "vd3mo3qEcas"
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": "l2rRpEYCE8I"
+      },
+      "mas": {
+        "difficult": "8.35",
+        "videoId": "6JX4LeA1psc"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.45",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "CAPTURING XANADU",
+    "artist": "山本真央樹",
+    "bpm": "136",
+    "version": "★",
+    "imgId": "RA9O2tmqlZc",
+    "drum": {
+      "bsc": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.30",
+        "videoId": "RA9O2tmqlZc"
+      },
+      "mas": {
+        "difficult": "9.82",
+        "videoId": "RA9O2tmqlZc"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Cinnamon",
+    "artist": "BEMANI Sound Team \"SYUNN\"",
+    "bpm": "125",
+    "version": "★",
+    "imgId": "AXyaiALZQag",
+    "drum": {
+      "bsc": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.70",
+        "videoId": "AXyaiALZQag"
+      },
+      "mas": {
+        "difficult": "9.65",
+        "videoId": "AXyaiALZQag"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.55",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Clattanoia",
+    "artist": "OxT",
+    "bpm": "190",
+    "version": "XG11",
+    "imgId": "ZPdQsjncUB8",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": "zcJQ1f1zyDI"
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": "OX8JpMwRrVQ"
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": "_b_Z1BaHqVo"
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": "ZPdQsjncUB8"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.50",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "CQCQ",
+    "artist": "神様、僕は気づいてしまった",
+    "bpm": "144",
+    "version": "◎",
+    "imgId": "7tcT6vfbAK0",
+    "drum": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": "K312olZJbR8"
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": "RWql3xDDeBw"
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": "GtHdfupYF-Y"
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": "7tcT6vfbAK0"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.85",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "DREAMING-ING!!",
+    "artist": "ときめきアイドル project",
+    "bpm": "180",
+    "version": "★",
+    "imgId": "hNeeBHwZvKM",
+    "drum": {
+      "bsc": {
+        "difficult": "1.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.35",
+        "videoId": "hNeeBHwZvKM"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "5.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.10",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Drizzly Venom",
+    "artist": "日向美ビタースイーツ♪",
+    "bpm": "147-168",
+    "version": "GD3",
+    "imgId": "9Fd-UgRanSQ",
+    "drum": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": "9Fd-UgRanSQ"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.85",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Duella Lyrica",
+    "artist": "BEMANI Sound Team \"Akhuta Works\"",
+    "bpm": "178",
+    "version": "★",
+    "imgId": "bx1nJRPHqyM",
+    "drum": {
+      "bsc": {
+        "difficult": "3.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.65",
+        "videoId": "bx1nJRPHqyM"
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": "bx1nJRPHqyM"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.05",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Fate of the Furious",
+    "artist": "mitsuhiro",
+    "bpm": "180",
+    "version": "★",
+    "imgId": "qyhP9viDviA",
+    "drum": {
+      "bsc": {
+        "difficult": "4.35",
+        "videoId": "uZ3Cv8qz8YI"
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": "q_Wo4D2SDIw"
+      },
+      "ext": {
+        "difficult": "7.95",
+        "videoId": "mSD3eT6oOPA"
+      },
+      "mas": {
+        "difficult": "9.70",
+        "videoId": "qyhP9viDviA"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.50",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Fly to Sky",
+    "artist": "DAIHEI",
+    "bpm": "195",
+    "version": "GD1",
+    "imgId": "lgcnrSb8RvA",
+    "drum": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": "lgcnrSb8RvA"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Killing Bites",
+    "artist": "ユグドラシルワークスShun with 夜凪",
+    "bpm": "254",
+    "version": "XG5",
+    "imgId": "tSELKMdFjQk",
+    "drum": {
+      "bsc": {
+        "difficult": "2.35",
+        "videoId": "qzitMy5Mtbc"
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": "6ya51qsd7AI"
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": "Z8kF8Wv_F04"
+      },
+      "mas": {
+        "difficult": "9.20",
+        "videoId": "tSELKMdFjQk"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.50",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Life goes on",
+    "artist": "DAIHEI",
+    "bpm": "134",
+    "version": "GD4",
+    "imgId": "Dy8wHLclnkk",
+    "drum": {
+      "bsc": {
+        "difficult": "2.85",
+        "videoId": "T9roED2BCyw"
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": "JjyPrZwqQPI"
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": "-P--eNDur_w"
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": "Dy8wHLclnkk"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Life is beautiful",
+    "artist": "BEMANI Sound Team \"猫叉Master\"",
+    "bpm": "155",
+    "version": "GD4",
+    "imgId": "DdzgJ5nhTUc",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": "DdzgJ5nhTUc"
+      },
+      "mas": {
+        "difficult": "9.65",
+        "videoId": "DdzgJ5nhTUc"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.65",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "LIPS NOISE HUNTER",
+    "artist": "SOUND HOLIC Vs. T.Kakuta feat. Nana Takahashi",
+    "bpm": "150-200",
+    "version": "GD1",
+    "imgId": "PaK8f6wjpAo",
+    "drum": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.05",
+        "videoId": "PaK8f6wjpAo"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.95",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "MODEL FT4",
+    "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
+    "bpm": "155",
+    "version": "★",
+    "imgId": "UtofHA0RByg",
+    "drum": {
+      "bsc": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.70",
+        "videoId": "UtofHA0RByg"
+      },
+      "mas": {
+        "difficult": "9.90",
+        "videoId": "UtofHA0RByg"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "4.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "MONOLITH -GITADOROCK ver.-",
+    "artist": "TOMOSUKE feat.BEMANI Sound Team \"Mutsuhiko Izumi\"",
+    "bpm": "170-205",
+    "version": "XG5",
+    "imgId": "h13OCRNN4uI",
+    "drum": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": "h13OCRNN4uI"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Navy blue sea",
+    "artist": "Trick Trap",
+    "bpm": "240",
+    "version": "XG13",
+    "imgId": "TrY4J4b89ig",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": "TrY4J4b89ig"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.95",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Nex:us",
+    "artist": "a crowd of rebellion",
+    "bpm": "205",
+    "version": "◎",
+    "imgId": "fisxfooxCYI",
+    "drum": {
+      "bsc": {
+        "difficult": "1.60",
+        "videoId": "Y2PFf0GK7Xc"
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": "PJnevDRH0m4"
+      },
+      "ext": {
+        "difficult": "6.95",
+        "videoId": "9OEzn8z4cMY"
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": "fisxfooxCYI"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.55",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.65",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Next FUTURE",
+    "artist": "SARAH",
+    "bpm": "192",
+    "version": "XG3",
+    "imgId": "k0H-utif9A8",
+    "drum": {
+      "bsc": {
+        "difficult": "3.90",
+        "videoId": "Y8cvuLn6Luc"
+      },
+      "adv": {
+        "difficult": "5.40",
+        "videoId": "Bl2dXq-H5Yg"
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": "fLDUiqj4pOw"
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": "k0H-utif9A8"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.95",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ONE DAY",
+    "artist": "SARAH",
+    "bpm": "180",
+    "version": "GD6",
+    "imgId": "NDGI_0fnUv0",
+    "drum": {
+      "bsc": {
+        "difficult": "3.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.55",
+        "videoId": "NDGI_0fnUv0"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.40",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "5.75",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Perfect World",
+    "artist": "Hiromixxx",
+    "bpm": "170",
+    "version": "GD2",
+    "imgId": "MY7C4i2yUvs",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.05",
+        "videoId": "MY7C4i2yUvs"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.95",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Physical Decay",
+    "artist": "浅田 靖",
+    "bpm": "208",
+    "version": "★",
+    "imgId": "ndwwlyIcrSU",
+    "drum": {
+      "bsc": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": "ndwwlyIcrSU"
+      },
+      "mas": {
+        "difficult": "9.25",
+        "videoId": "ndwwlyIcrSU"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.25",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "PIRATES BANQUET",
+    "artist": "山本真央樹",
+    "bpm": "146",
+    "version": "★",
+    "imgId": "2j4iLXsqxTg",
+    "drum": {
+      "bsc": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "9.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.87",
+        "videoId": "2j4iLXsqxTg"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Pirates of Upas",
+    "artist": "GYZE",
+    "bpm": "194",
+    "version": "GD1",
+    "imgId": "5HzvkCCHq1Y",
+    "drum": {
+      "bsc": {
+        "difficult": "3.15",
+        "videoId": "3vlxrTroBCU"
+      },
+      "adv": {
+        "difficult": "5.85",
+        "videoId": "KnVo5R3NctQ"
+      },
+      "ext": {
+        "difficult": "7.35",
+        "videoId": "KsyW79eZwPQ"
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": "5HzvkCCHq1Y"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Prey",
+    "artist": "BEMANI Sound Team \"Dustup\"",
+    "bpm": "200",
+    "version": "XG13",
+    "imgId": "uow5WQ4jSTE",
+    "drum": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": "uow5WQ4jSTE"
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": "uow5WQ4jSTE"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.85",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Puberty Dysthymia",
+    "artist": "BEMANI Sound Team \"person09\"",
+    "bpm": "70-210",
+    "version": "GD3",
+    "imgId": "d3I8CWB6Hf4",
+    "drum": {
+      "bsc": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.15",
+        "videoId": "P8zry6Bjaqo"
+      },
+      "mas": {
+        "difficult": "9.75",
+        "videoId": "d3I8CWB6Hf4"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "RAIN DROPS",
+    "artist": "Rookie.F feat. Sean(from PHOENIX ASH)",
+    "bpm": "192",
+    "version": "GD1",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "REBORN",
+    "artist": "MEG",
+    "bpm": "125",
+    "version": "XG10",
+    "imgId": "saKWDGlDwCg",
+    "drum": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": "saKWDGlDwCg"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Rejoin",
+    "artist": "BEMANI Sound Team \"HuΣeR feat.PON\"",
+    "bpm": "135",
+    "version": "XG3",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.95",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.15",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Sacrifice",
+    "artist": "龍",
+    "bpm": "155",
+    "version": "XG11",
+    "imgId": "MclU_Vy1oK8",
+    "drum": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.55",
+        "videoId": "MclU_Vy1oK8"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.25",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.15",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "STAY TUNE",
+    "artist": "Suchmos",
+    "bpm": "123",
+    "version": "◎",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.50",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.65",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "SUPER SUMMER SALE",
+    "artist": "BEMANI Sound Team \"U1 overground\"",
+    "bpm": "155",
+    "version": "XG12",
+    "imgId": "A3DX3GWI4M4",
+    "drum": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": "A3DX3GWI4M4"
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": "A3DX3GWI4M4"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Sweet feelin'",
+    "artist": "Honey latte",
+    "bpm": "113(-226)",
+    "version": "XG4",
+    "imgId": "-SMTbr4fkeY",
+    "drum": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": "-SMTbr4fkeY"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "The Kingsroad",
+    "artist": "RINZO",
+    "bpm": "150",
+    "version": "XG11",
+    "imgId": "WazZbLBkZFg",
+    "drum": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": "WazZbLBkZFg"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "triangulum",
+    "artist": "BEMANI Sound Team \"TATSUYA\"",
+    "bpm": "161",
+    "version": "★",
+    "imgId": "zQacS2w4C0I",
+    "drum": {
+      "bsc": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.30",
+        "videoId": "zQacS2w4C0I"
+      },
+      "mas": {
+        "difficult": "9.91",
+        "videoId": "zQacS2w4C0I"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.85",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "TRIPLE ORBIT",
+    "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
+    "bpm": "215",
+    "version": "XG5",
+    "imgId": "amEQVUYKABM",
+    "drum": {
+      "bsc": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.85",
+        "videoId": "amEQVUYKABM"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.70",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Victoria",
+    "artist": "HIZAKI",
+    "bpm": "180",
+    "version": "GD3",
+    "imgId": "wmmXrZsYQc4",
+    "drum": {
+      "bsc": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.85",
+        "videoId": "wmmXrZsYQc4"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "Windy Fairy -GITADO ROCK ver.-",
+    "artist": "BEMANI Sound Team \"DJ TOTTO\"",
+    "bpm": "180",
+    "version": "XG3",
+    "imgId": "_cJ-mQsV0ng",
+    "drum": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.35",
+        "videoId": "_cJ-mQsV0ng"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.60",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "XIII",
+    "artist": "Jane Doe",
+    "bpm": "164",
+    "version": "XG10",
+    "imgId": "60S0vOJvzCI",
+    "drum": {
+      "bsc": {
+        "difficult": "2.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.45",
+        "videoId": "60S0vOJvzCI"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "明日へと続く物語",
+    "artist": "BEMANI Sound Team \"TAG\"",
+    "bpm": "150",
+    "version": "XG3",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.05",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.15",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "嘘だらけの僕から出た言葉",
+    "artist": "杉下 トキヤ feat. KIHOW(MYTH & ROID)",
+    "bpm": "140",
+    "version": "GD2",
+    "imgId": "961IlgVkhP8",
+    "drum": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.75",
+        "videoId": "961IlgVkhP8"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.00",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "解読不能",
+    "artist": "After the Rain",
+    "bpm": "190",
+    "version": "◎",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.65",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "幾何学的『トリックスター』",
+    "artist": "DJ Genki feat. SHIN from HYPERNOVA With 三代",
+    "bpm": "300",
+    "version": "XG11",
+    "imgId": "qRRRYRlp3kc",
+    "drum": {
+      "bsc": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": "qRRRYRlp3kc"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.30",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ギタドライト",
+    "artist": "Rookie.F feat.HIZAKI(Jupiter & Versailles)",
+    "bpm": "135",
+    "version": "XG5",
+    "imgId": "sU-DvvjYtos",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": "sU-DvvjYtos"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.85",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "君と野獣",
+    "artist": "バンドハラスメント",
+    "bpm": "196",
+    "version": "◎",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.85",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.00",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.70",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "君も天真爛漫",
+    "artist": "松山あおい＋BEMANI Sound Team\"劇団レコード\"",
+    "bpm": "152",
+    "version": "GD2",
+    "imgId": "IYNgZXL4Ck4",
+    "drum": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.85",
+        "videoId": "IYNgZXL4Ck4"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.75",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "キリステゴメン",
+    "artist": "東雲夏陽",
+    "bpm": "156",
+    "version": "XG3",
+    "imgId": "ShRaS7FLs9U",
+    "drum": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.80",
+        "videoId": "ShRaS7FLs9U"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "桐一葉",
+    "artist": "ユグドラシルワークスShun with 砂唏",
+    "bpm": "120",
+    "version": "XG6",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.70",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "君氏危うくも近うよれ",
+    "artist": "A応P",
+    "bpm": "162",
+    "version": "◎",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.50",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.40",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "けもののおうじゃ★めうめう",
+    "artist": "日向美ビタースイーツ♪",
+    "bpm": "162",
+    "version": "★",
+    "imgId": "qtX_Ng3FN5Q",
+    "drum": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": "qtX_Ng3FN5Q"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.35",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "最強ゲームエンド",
+    "artist": "GRAN-DRAMATIC BOYS",
+    "bpm": "210",
+    "version": "XG9",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.05",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.95",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "失恋かぞえうた",
+    "artist": "GRAN-DRAMATIC BOYS",
+    "bpm": "186",
+    "version": "XG9",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "紫電一閃",
+    "artist": "BEMANI Sound Team \"HuΣeR\" vs Imy feat.Fernweh",
+    "bpm": "135",
+    "version": "XG3",
+    "imgId": "BiVTF2_57I4",
+    "drum": {
+      "bsc": {
+        "difficult": "3.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.55",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": "BiVTF2_57I4"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "シノビシノノメ",
+    "artist": "東雲心菜",
+    "bpm": "174",
+    "version": "GD8",
+    "imgId": "akQF4XTYVAw",
+    "drum": {
+      "bsc": {
+        "difficult": "1.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": "akQF4XTYVAw"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.20",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "シャルル",
+    "artist": "バルーン",
+    "bpm": "145",
+    "version": "XG5",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.35",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.50",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "銃弾は解を撃ち抜いて",
+    "artist": "日向美ビタースイーツ♪",
+    "bpm": "171",
+    "version": "GD2",
+    "imgId": "y3R8bdh7iKk",
+    "drum": {
+      "bsc": {
+        "difficult": "1.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": "y3R8bdh7iKk"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "春雷",
+    "artist": "米津玄師",
+    "bpm": "124",
+    "version": "XG5",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "5.45",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "星座が恋した瞬間を。",
+    "artist": "BEMANI Sound Team \"DJ TOTTO feat.MarL\"",
+    "bpm": "186",
+    "version": "XG3",
+    "imgId": "vcE0DKZ5rRQ",
+    "drum": {
+      "bsc": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.35",
+        "videoId": "vcE0DKZ5rRQ"
+      },
+      "mas": {
+        "difficult": "8.35",
+        "videoId": "vcE0DKZ5rRQ"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.30",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "想像だけで素晴らしいんだ",
+    "artist": "PAN",
+    "bpm": "196",
+    "version": "XG14",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "大好きなぬいぐるみ",
+    "artist": "劇団レコード feat.花柚",
+    "bpm": "148",
+    "version": "XG6",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.55",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.50",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "絶え果つ花の都より",
+    "artist": "Akhuta",
+    "bpm": "166",
+    "version": "GD3",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.35",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "立ち入り禁止",
+    "artist": "まふまふ",
+    "bpm": "160",
+    "version": "◎",
+    "imgId": "XUmXEPWWtSg",
+    "drum": {
+      "bsc": {
+        "difficult": "1.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.55",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.40",
+        "videoId": "XUmXEPWWtSg"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.50",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "チョコレートスマイル",
+    "artist": "日向美ビタースイーツ♪ & ここなつ",
+    "bpm": "196",
+    "version": "GD6",
+    "imgId": "tG9JO4pn7ig",
+    "drum": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.65",
+        "videoId": "tG9JO4pn7ig"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.75",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.70",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "出口入口",
+    "artist": "豚乙女",
+    "bpm": "200",
+    "version": "XG6",
+    "imgId": "QnrYzf0sRZY",
+    "drum": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.50",
+        "videoId": "QnrYzf0sRZY"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.40",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.30",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "とびきりシュガータイム",
+    "artist": "山本真央樹 feat.朔白",
+    "bpm": "112",
+    "version": "XG4",
+    "imgId": "cY38p8IBgkc",
+    "drum": {
+      "bsc": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": "cY38p8IBgkc"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ナイト・オブ・ロンド",
+    "artist": "日向美ビタースイーツ♪",
+    "bpm": "169",
+    "version": "XG3",
+    "imgId": "kIGHJtqPcJY",
+    "drum": {
+      "bsc": {
+        "difficult": "1.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.10",
+        "videoId": "kIGHJtqPcJY"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.65",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.10",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.10",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.60",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ノルエピネフリン",
+    "artist": "BEMANI Sound Team \"U1 overground\"",
+    "bpm": "124",
+    "version": "XG12",
+    "imgId": "5jHA4QCavQU",
+    "drum": {
+      "bsc": {
+        "difficult": "3.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.25",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.10",
+        "videoId": "5jHA4QCavQU"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.85",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ピースサイン",
+    "artist": "米津玄師",
+    "bpm": "200",
+    "version": "XG6",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.40",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.65",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.05",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.90",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "5.25",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ビター・エスケープ",
+    "artist": "やぎぬまかな",
+    "bpm": "152",
+    "version": "GD8",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.90",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.75",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "一夜のキセキ",
+    "artist": "ひまわり*パンチ",
+    "bpm": "132",
+    "version": "★",
+    "imgId": "F39GQyA_nQk",
+    "drum": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": "F39GQyA_nQk"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.55",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.25",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "5.85",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "風鈴花火",
+    "artist": "BEMANI Sound Team \"劇団レコード\"feat.結良まり",
+    "bpm": "150",
+    "version": "XG6",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.95",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.65",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.35",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.70",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "フリップブック*ストーリー",
+    "artist": "ひまわり*パンチ",
+    "bpm": "177",
+    "version": "TB1",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.45",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.65",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "摩天楼ノ特異点～Anti;HERO",
+    "artist": "純情ディスコード",
+    "bpm": "178",
+    "version": "GD1",
+    "imgId": "2oXygm3AAAQ",
+    "drum": {
+      "bsc": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": "2oXygm3AAAQ"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.65",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.30",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "真夏のMotion☆",
+    "artist": "達見 恵 featured by 佐野宏晃",
+    "bpm": "178",
+    "version": "XG2",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.95",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.10",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.15",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.35",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "まぼろしウインク",
+    "artist": "A応P",
+    "bpm": "141",
+    "version": "GD8",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.30",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.60",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.05",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.05",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ミカヅキ:コネクト",
+    "artist": "かゆき",
+    "bpm": "160",
+    "version": "XG3",
+    "imgId": "VpbtI6DD5YU",
+    "drum": {
+      "bsc": {
+        "difficult": "3.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.52",
+        "videoId": "VpbtI6DD5YU"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.75",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.45",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.85",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ミラクル・スイート・スイーツ・マジック！！",
+    "artist": "日向美ビタースイーツ♪",
+    "bpm": "88-206",
+    "version": "XG4",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.60",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.75",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.20",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.95",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "無垢",
+    "artist": "己龍",
+    "bpm": "210",
+    "version": "◎",
+    "imgId": "bn3agqka9u4",
+    "drum": {
+      "bsc": {
+        "difficult": "2.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.40",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.80",
+        "videoId": "bn3agqka9u4"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.50",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.00",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.40",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.95",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ヤオヨロズランズ",
+    "artist": "工藤吉三(ベイシスケイプ)",
+    "bpm": "148",
+    "version": "★",
+    "imgId": "Ry626gDgcj4",
+    "drum": {
+      "bsc": {
+        "difficult": "4.70",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.20",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.35",
+        "videoId": "Ry626gDgcj4"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "4.25",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.50",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.40",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "4.35",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.75",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "夢色☆スパイラル!!!!!",
+    "artist": "DJ Genki feat.ななひら,yukacco,藍月なくる With re-zi",
+    "bpm": "200",
+    "version": "XG7",
+    "imgId": "wO8qOHduQY8",
+    "drum": {
+      "bsc": {
+        "difficult": "3.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "5.90",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.90",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.30",
+        "videoId": "wO8qOHduQY8"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.80",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.25",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.60",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.95",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "ようこそジャパリパークへ",
+    "artist": "どうぶつビスケッツ×PPP",
+    "bpm": "170",
+    "version": "◎",
+    "imgId": "",
+    "drum": {
+      "bsc": {
+        "difficult": "1.75",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.15",
+        "videoId": ""
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "1.90",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.80",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.70",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.05",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "1.65",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "3.85",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "5.25",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "6.80",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "レゾンデートル、前線より",
+    "artist": "中島由貴",
+    "bpm": "207",
+    "version": "XG6",
+    "imgId": "YDvR_ZzDM44",
+    "drum": {
+      "bsc": {
+        "difficult": "2.00",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.60",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.35",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "7.85",
+        "videoId": "YDvR_ZzDM44"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "2.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.15",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.20",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "2.45",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.00",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.00",
+        "videoId": ""
+      }
+    }
+  },
+  {
+    "title": "煉獄事変",
+    "artist": "OSTER project",
+    "bpm": "280",
+    "version": "★",
+    "imgId": "vN-jeEAMeL0",
+    "drum": {
+      "bsc": {
+        "difficult": "4.55",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.10",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "7.60",
+        "videoId": "vN-jeEAMeL0"
+      },
+      "mas": {
+        "difficult": "9.60",
+        "videoId": "vN-jeEAMeL0"
+      }
+    },
+    "guitar": {
+      "bsc": {
+        "difficult": "4.15",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "6.30",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "8.05",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "9.30",
+        "videoId": ""
+      }
+    },
+    "buss": {
+      "bsc": {
+        "difficult": "3.20",
+        "videoId": ""
+      },
+      "adv": {
+        "difficult": "4.45",
+        "videoId": ""
+      },
+      "ext": {
+        "difficult": "6.45",
+        "videoId": ""
+      },
+      "mas": {
+        "difficult": "8.55",
+        "videoId": ""
+      }
+    }
+  }
+]

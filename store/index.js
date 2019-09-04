@@ -1,4 +1,5 @@
-import Music from '~/assets/musicdata.json'
+import Music from '~/assets/musicdata/set.json'
+// import Music from '~/assets/musicdata/26_matixx.json'
 
 export const state = () => ({
   console: null,

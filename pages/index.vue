@@ -20,7 +20,6 @@
 <script>
 import Logo from '~/components/Logo.vue'
 import Musiclist from '~/components/Musiclist.vue'
-import Musicdata from '~/assets/musicdata.json'
 
 export default {
   components: {
@@ -29,7 +28,6 @@ export default {
   },
   data () {
     return {
-      music: Musicdata,
       videoId: ''
     }
   },
